@@ -1,111 +1,105 @@
-Here's a **Markdown table** for all the **"Translation:"** entries we've covered so far:
+# Saint Lucian Creole (Kwéyòl) Guide 🌴
 
-## Single Words
+Welcome to this practical guide for Saint Lucian Creole (Kwéyòl). This resource organizes essential vocabulary and phrases to help you communicate effectively in this vibrant Caribbean language that blends French-based Creole with African, Caribbean, and English influences.
 
-## Saint Lucian Creole (Kwéyòl) Essential Words
+## How to Use This Guide 📖
 
-### Essential Pronouns
+- Each section contains carefully categorized vocabulary with English translations
+- Tables are organized by function (pronouns, verbs, descriptors, etc.)
+- Common phrases and expressions are included for practical conversation
+- Grammar markers and sentence structures help you form correct expressions
 
-| Kwéyòl | English       |
-| ------ | ------------- |
-| Li/I   | he / she / it |
-| Mwen   | I / me        |
-| Nou    | we / us       |
-| Ou     | you           |
-| Yo     | they / them   |
+Let's begin exploring the rich language of Kwéyòl!
 
-### Basic Verbs
+## Single Words 📝
 
-| Kwéyòl | English   |
-| ------ | --------- |
-| Alé    | go        |
-| Bwè    | drink     |
-| Fè     | do / make |
-| Manjé  | eat       |
-| Palé   | speak     |
-| Vini   | come      |
+### Essential Pronouns 👥
 
-### Numbers 1-5
+| Kwéyòl | English       | Etymology        |
+| ------ | ------------- | ---------------- |
+| Li/I   | he / she / it | French: lui      |
+| Mwen   | I / me        | French: moi      |
+| Nou    | we / us       | French: nous     |
+| Ou     | you           | French: vous     |
+| Yo     | they / them   | West African: yo |
 
-| Kwéyòl | English |
-| ------ | ------- |
-| Yon/En | one     |
-| Dé     | two     |
-| Twa    | three   |
-| Kat    | four    |
-| Senk   | five    |
+### Basic Verbs ⚡
 
-### Time Words
+| Kwéyòl | English       | Etymology                    |
+| ------ | ------------- | ---------------------------- |
+| Alé    | go            | French: aller                |
+| Asiz   | sit           | French: asseoir              |
+| Bay    | give          | French: bailler (Old French) |
+| Bwè    | drink         | French: boire                |
+| Fè     | do / make     | French: faire                |
+| Gadé   | look / watch  | French: regarder             |
+| Manjé  | eat           | French: manger               |
+| Mété   | put           | French: mettre               |
+| Pwan   | take          | French: prendre              |
+| Tann   | hear / listen | French: entendre             |
+| Vini   | come          | French: venir                |
 
-| Kwéyòl   | English   |
-| -------- | --------- |
-| Bonmaten | morning   |
-| Dimen    | tomorrow  |
-| Jodi     | today     |
-| Swè      | evening   |
-| Yè       | yesterday |
+### Numbers 1-5 🔢
 
-### Everyday Actions
+| Kwéyòl   | English |
+| -------- | ------- |
+| Yon / En | one     |
+| Dé       | two     |
+| Twa      | three   |
+| Kat      | four    |
+| Senk     | five    |
 
-| Kwéyòl | English       |
-| ------ | ------------- |
-| Asiz   | sit           |
-| Bay    | give          |
-| Gadé   | look / watch  |
-| Mété   | put           |
-| Pwan   | take          |
-| Tann   | hear / listen |
+### Time Words ⏰
 
-### Essential Descriptors
+| Kwéyòl    | English    | Etymology              |
+| --------- | ---------- | ---------------------- |
+| Atjwèlman | now        | French: actuellement   |
+| Bonmaten  | morning    | French: bon matin      |
+| Dimen     | tomorrow   | French: demain         |
+| Jodi      | today      | French: aujourd'hui    |
+| Swè       | evening    |                        |
+| Talè      | later      | French: tout à l'heure |
+| Touswit   | right away | French: tout de suite  |
+| Yè        | yesterday  | French: hier           |
 
-| Kwéyòl  | English   |
-| ------- | --------- |
-| Bèl     | beautiful |
-| Bon     | good      |
-| Cho     | hot       |
-| Dousman | slow      |
-| Fwèt    | cold      |
-| Gwo     | big       |
-| Mové    | bad       |
-| Piti    | small     |
-| Vit     | fast      |
+### Essential Descriptors ✨
 
-### Common Connectors
+| Kwéyòl  | English   | Etymology         |
+| ------- | --------- | ----------------- |
+| Bèl     | beautiful | French: belle     |
+| Bon     | good      |                   |
+| Cho     | hot       | French: chaud     |
+| Dousman | slow      | French: doucement |
+| Fwèt    | cold      | French: froid     |
+| Gwo     | big       | French: gros      |
+| Mové    | bad       |                   |
+| Piti    | small     |                   |
+| Vit     | fast      |                   |
 
-| Kwéyòl | English    |
-| ------ | ---------- |
-| Épi    | and / with |
-| Kon    | like / as  |
-| Mé     | but        |
-| Paski  | because    |
-| Pou    | for / to   |
-| Si     | if         |
+### Common Connectors 🔗
 
-### Question Words
+| Kwéyòl | English    | Etymology         |
+| ------ | ---------- | ----------------- |
+| Épi    | and / with | French: et puis   |
+| Kon    | like/as    | French: comme     |
+| Mé     | but        | French: mais      |
+| Paski  | because    | French: parce que |
+| Pou    | for        | French: pour      |
+| Si     | if         | French: si        |
 
-| Kwéyòl | English            |
-| ------ | ------------------ |
-| Ki     | who / what / which |
-| Kilè   | when               |
-| Koté   | where              |
-| Pouki  | why                |
-| Kijan  | How                |
-| Kote   | Where              |
-| Kilè   | When               |
-| Kijan  | How                |
+### Question Words ❓
 
-### Time Expressions
+| Kwéyòl | English | Etymology            |
+| ------ | ------- | -------------------- |
+| Ki     | what    | French: qui/que      |
+| Kijan  | How     |                      |
+| Kilè   | when    | French: quelle heure |
+| Kimoun | who     | French: qui + monde  |
+| Kote   | Where   |                      |
+| Koté   | where   | French: quel côté    |
+| Pouki  | why     | French: pourquoi     |
 
-| Kwéyòl    | English    |
-| --------- | ---------- |
-| Atjwèlman | now        |
-| Touswit   | right away |
-| Talè      | later      |
-| Jodi      | today      |
-| Yè        | yesterday  |
-| Dimen     | tomorrow   |
-
-### Location Words
+### Location Words 📍
 
 | Kwéyòl       | English  |
 | ------------ | -------- |
@@ -127,10 +121,10 @@ Here's a **Markdown table** for all the **"Translation:"** entries we've covered
 
 | Structure          | Pattern                     | Example                                          |
 | ------------------ | --------------------------- | ------------------------------------------------ |
-| Present Continuous | subject + ka + verb         | Mwen ka manjé (I am eating)                      |
-| Future             | dimen + subject + ka + verb | Dimen mwen ka alé (Tomorrow I will go)           |
 | Compound           | phrase1 + épi + phrase2     | Mwen ka manjé épi bwè (I eat and drink)          |
 | Conditional        | si + condition + result     | Si ou vini, mwen ka alé (If you come, I will go) |
+| Future             | dimen + subject + ka + verb | Dimen mwen ka alé (Tomorrow I will go)           |
+| Present Continuous | subject + ka + verb         | Mwen ka manjé (I am eating)                      |
 
 ### Basic Conversations
 
@@ -195,9 +189,9 @@ Here's a **Markdown table** for all the **"Translation:"** entries we've covered
 
 ### Future Intentions
 
-| Kwéyòl         | English                  |
-| -------------- | ------------------------ |
-| E m'ap         | And I will/I am going to |
-| Mwen ka aprann | I'm learning             |
+| Kwéyòl         | English                    |
+| -------------- | -------------------------- |
+| E m'ap         | And I will / I am going to |
+| Mwen ka aprann | I'm learning               |
 
 ---
