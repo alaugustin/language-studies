@@ -1,6 +1,8 @@
 # Saint Lucian Kwéyòl (Creole) Guide 🇱🇨
 
-Welcome to this practical guide for Saint Lucian Kwéyòl. This resource organizes essential vocabulary and phrases to help you communicate effectively in this vibrant Caribbean language that blends French-based Creole with African, Caribbean, and English influences.
+Welcome to this practical guide for Saint Lucian Kwéyòl.
+
+This resource organizes essential vocabulary and phrases to help you communicate effectively in this vibrant Caribbean language that blends French-based Creole with African, Caribbean, and English influences.
 
 Let's begin exploring the rich language of Kwéyòl!
 
@@ -25,7 +27,7 @@ These pronouns form the foundation of personal expression in Kwéyòl. Notice ho
 
 | Kwéyòl | English       | Etymology        |
 | ------ | ------------- | ---------------- |
-| Li/I   | he / she / it | French: lui      |
+| Li / I | he / she / it | French: lui      |
 | Mwen   | I / me        | French: moi      |
 | Nou    | we / us       | French: nous     |
 | Ou     | you           | French: vous     |
@@ -35,13 +37,18 @@ These pronouns form the foundation of personal expression in Kwéyòl. Notice ho
 
 The basic counting system in Kwéyòl, showing strong French influence while maintaining unique Creole pronunciation.
 
-| Kwéyòl   | English |
-| -------- | ------- |
-| Yon / En | one     |
-| Dé       | two     |
-| Twa      | three   |
-| Kat      | four    |
-| Senk     | five    |
+| Kwéyòl   | English | Etymology      |
+| -------- | ------- | -------------- |
+| Yon / En | one     | French: un     |
+| Dé       | two     | French: deux   |
+| Twa      | three   | French: trois  |
+| Kat      | four    | French: quatre |
+| Senk     | five    | French: cinq   |
+| Sis      | six     | French: six    |
+| Sèt      | seven   | French: sept   |
+| Wit      | eight   | French: huit   |
+| Nèf      | nine    | French: neuf   |
+| Dis      | ten     | French: dix    |
 
 ### Basic Verbs ⚡
 
@@ -59,6 +66,7 @@ These core action words are essential for constructing simple sentences. Most ve
 | Mété   | put           | French: mettre               |
 | Pwan   | take          | French: prendre              |
 | Tann   | hear / listen | French: entendre             |
+| Travay | work          | French: travail              |
 | Vini   | come          | French: venir                |
 
 ### Grammar Markers 🔄
@@ -89,14 +97,14 @@ These adjectives help describe people, objects, and situations. They're crucial 
 | Kwéyòl  | English   | Etymology         |
 | ------- | --------- | ----------------- |
 | Bèl     | beautiful | French: belle     |
-| Bon     | good      |                   |
+| Bon     | good      | French: bon       |
 | Cho     | hot       | French: chaud     |
 | Dousman | slow      | French: doucement |
 | Fwèt    | cold      | French: froid     |
 | Gwo     | big       | French: gros      |
-| Mové    | bad       |                   |
-| Piti    | small     |                   |
-| Vit     | fast      |                   |
+| Mové    | bad       | French: mauvais   |
+| Piti    | small     | French: petit     |
+| Vit     | fast      | French: vite      |
 
 ### Time Words ⏰
 
@@ -108,7 +116,7 @@ Essential vocabulary for discussing time, schedules, and daily activities. These
 | Bonmaten  | morning    | French: bon matin      |
 | Dimen     | tomorrow   | French: demain         |
 | Jodi      | today      | French: aujourd'hui    |
-| Swè       | evening    |                        |
+| Swè       | evening    | French: soir           |
 | Talè      | later      | French: tout à l'heure |
 | Touswit   | right away | French: tout de suite  |
 | Yè        | yesterday  | French: hier           |
@@ -117,10 +125,10 @@ Essential vocabulary for discussing time, schedules, and daily activities. These
 
 Vocabulary for discussing place and position, crucial for giving and receiving directions.
 
-| Kwéyòl       | English  |
-| ------------ | -------- |
-| An           | In / At  |
-| Lokalizasyon | Location |
+| Kwéyòl       | English  | Etymology            |
+| ------------ | -------- | -------------------- |
+| An           | In / At  | French: en / à       |
+| Lokalizasyon | Location | French: localisation |
 
 ### Common Connectors 🔗
 
@@ -149,27 +157,26 @@ Starting with basic what / where / when questions, you'll progress to more nuanc
 
 Essential for forming questions and gathering information. These words help you engage in interactive conversations and seek clarification.
 
-| Kwéyòl | English | Etymology            |
-| ------ | ------- | -------------------- |
-| Ki     | what    | French: qui/que      |
-| Kijan  | How     |                      |
-| Kilè   | when    | French: quelle heure |
-| Kimoun | who     | French: qui + monde  |
-| Kote   | Where   |                      |
-| Koté   | where   | French: quel côté    |
-| Pouki  | why     | French: pourquoi     |
+| Kwéyòl | English | Etymology                   |
+| ------ | ------- | --------------------------- |
+| Ki     | what    | French: qui / que           |
+| Kijan  | How     | French: qui + genre         |
+| Kilè   | when    | French: quelle heure        |
+| Kimoun | who     | French: qui + monde         |
+| Koté   | where   | French: quel côté           |
+| Pouki  | why     | French: pourquoi            |
 
 ### Question Patterns 💭
 
 Different ways to form questions in Kwéyòl, from simple inquiries to more complex interrogatives.
 
-| Kwéyòl    | English                 |
-| --------- | ----------------------- |
-| Ki moun   | Who                     |
-| Ki sa     | What                    |
-| Sa sa yé? | What is this?           |
-| Sa sa     | This thing / That thing |
-| Sa yé     | What is it?             |
+| Kwéyòl    | English                 | Etymology                                   |
+| --------- | ----------------------- | ------------------------------------------- |
+| Ki moun   | Who                     | French: qui + monde (which person)          |
+| Ki sa     | What                    | French: qui/que + ça (what's that)          |
+| Sa sa     | This thing / That thing | French: ça + ça (that / this + that / this) |
+| Sa sa yé? | What is this?           | French: ça + c'est (that / this is)         |
+| Sa yé     | What is it?             | French: c'est (it is) + être (to be)        |
 
 ### Basic Conversations 💬
 
@@ -208,19 +215,22 @@ These patterns demonstrate the fundamental ways to construct sentences in Kwéy�
 | Conditional        | si + condition + result     | Si ou vini, mwen ka alé (If you come, I will go) |
 | Future             | dimen + subject + ka + verb | Dimen mwen ka alé (Tomorrow I will go)           |
 | Present Continuous | subject + ka + verb         | Mwen ka manjé (I am eating)                      |
+| Sa sé ou           | That is you / This is you   | "Sé" marks emphasis or identification            |
 
 ### Common Expressions 🗣️
 
 Frequently used phrases that will help you sound more natural in everyday conversations.
 
-| Kwéyòl                 | English                    |
-| ---------------------- | -------------------------- |
-| Gwo mèsi               | Big thank you              |
-| Pou èd ou              | For your help              |
-| Non, mwen byen         | No, I'm fine               |
-| Bon lide               | Good idea                  |
-| Mèsi pou koreksyon an  | Thanks for the correction  |
-| Mèsi pou tradiksyon-an | Thanks for the translation |
+| Kwéyòl                 | English                    | Etymology                                           |
+| ---------------------- | -------------------------- | --------------------------------------------------- |
+| Bon lide               | Good idea                  | French: bonne idée                                  |
+| Gwo mèsi               | Big thank you              | French: gros (big) + merci (thank you)              |
+| Mèsi pou koreksyon an  | Thanks for the correction  | French: merci + correction + article 'la'           |
+| Mèsi pou tradiksyon-an | Thanks for the translation | French: merci + traduction + article 'la'           |
+| Mwen la                | I'm here / I'm present     | French: moi + article 'la'                          |
+| Mwen poko mò           | I'm not dead yet           | French: moi + Kweyol: poko (not yet) + French: mort |
+| Non, mwen byen         | No, I'm fine               | French: non (no) + bien (well/fine)                 |
+| Pou èd ou              | For your help              | French: pour (for) + aide (help)                    |
 
 ---
 
@@ -238,38 +248,47 @@ Advanced structures that allow you to express more sophisticated ideas and relat
 
 | Pattern                | Kwéyòl Example                                        | English Translation                                     |
 | ---------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| Cause / Effect (Paski) | Mwen ka bwè dlo paski mwen cho                        | I'm drinking water because I'm hot                      |
 | Compound (Épi)         | Mwen ka manjé épi bwè                                 | I am eating and drinking                                |
 | Conditional (Si)       | Si ou vini bonmaten, nou ka alé ansanm                | If you come in the morning, we will go together         |
-| Time-Based             | Atjwèlman mwen ka gadé télé, mé talè mwen ka alé dòmi | Right now I'm watching TV, but later I'm going to sleep |
-| Cause / Effect (Paski) | Mwen ka bwè dlo paski mwen cho                        | I'm drinking water because I'm hot                      |
 | Future Plans           | Dimen nou ka alé laplaj épi zanmi nou                 | Tomorrow we're going to the beach with our friends      |
+| Time-Based             | Atjwèlman mwen ka gadé télé, mé talè mwen ka alé dòmi | Right now I'm watching TV, but later I'm going to sleep |
 
 ### Weather & Environment 🌤️
 
 Vocabulary and phrases specific to discussing weather conditions and environmental situations.
 
-| Kwéyòl                                     | English                                     |
-| ------------------------------------------ | ------------------------------------------- |
-| Mwen kay alé netwayé lanèj pli ta          | I will go shovel snow later                 |
-| 50 cm lanèj ant jòdi-a épi Jedi            | 50 cm of snow between today and Thursday    |
-| Apre mwen netwayé lanèj yè, mwen té fatige | After shoveling snow yesterday, I was tired |
+| Kwéyòl                                     | English                                     | Etymology                                                        |
+| ------------------------------------------ | ------------------------------------------- | ---------------------------------------------------------------- |
+| 50 cm lanèj ant jòdi-a épi Jedi            | 50 cm of snow between today and Thursday    | French: la neige + entre + aujourd'hui + et puis + jeudi         |
+| Apre mwen netwayé lanèj yè, mwen té fatige | After shoveling snow yesterday, I was tired | French: après + moi + nettoyer + la neige + hier + moi + fatigué |
+| Mwen kay alé netwayé lanèj pli ta          | I will go shovel snow later                 | French: moi + aller + nettoyer + la neige + plus tard            |
 
-### Gaming & Leisure 🎮
+### Cultural & Modern References 🎵
 
-Modern expressions related to entertainment and recreational activities, showing how Kwéyòl adapts to contemporary contexts.
+These expressions showcase how Kwéyòl handles discussions about weather conditions and daily environmental tasks.
 
-| Kwéyòl                                                                                                 | English                                                                                                        |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| Jòdi-a, mwen kay jwé Battlefield 2024 pou anviron 1 hè                                                 | Today, I will play Battlefield 2024 for around 1 hour                                                          |
-| Epi apré sa, mwen kay touné netwayé lanèj—round 1 apré mwen jwé Battlefield, épi round 2 pli ta aswè-a | Then after that, I will go back to shoveling snow—round 1 after playing Battlefield, and round 2 later tonight |
+The examples demonstrate practical vocabulary for describing winter activities, weather forecasts, and their effects on daily life. Notice how the language naturally incorporates modern measurements (cm) while maintaining traditional Kwéyòl sentence structures.
+
+This blend makes it easy to discuss both immediate and upcoming weather situations in authentic, everyday conversations.
+
+| **Kweyol Word/Phrase**                                                                                 | **English Translation**                                                                                        | **Etymology/Notes**                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Byenvini an lanné 1950                                                                                 | Welcome to the 1950s                                                                                           | French: bienvenue + an + année (year)                                                                                                             |
+| Entèpretasyon pa Snoop Dogg                                                                            | Rendition by Snoop Dogg                                                                                        | French: interprétation (interpretation) + par (by)                                                                                                |
+| Epi apré sa, mwen kay touné netwayé lanèj—round 1 apré mwen jwé Battlefield, épi round 2 pli ta aswè-a | Then after that, I will go back to shoveling snow—round 1 after playing Battlefield, and round 2 later tonight | French: et puis (and then) + après ça (after that) + tourner (to turn/return) + neige (snow) + après (after) + plus tard (later) + soir (evening) |
+| Gwo mizik sòti tan jenès mwen                                                                          | Big songs from my young days                                                                                   | "Gwo" from French _gros_ (big); "jenès" from French _jeunesse_ (youth)                                                                            |
+| Jòdi-a, mwen kay jwé Battlefield 2024 pou anviron 1 hè                                                 | Today, I will play Battlefield 2024 for around 1 hour                                                          | French: jour + de (today) + jouer (play) + pour (for) + environ (around) + heure (hour)                                                           |
+| Mwen ka alé kòdé                                                                                       | I can code                                                                                                     | "Ka" + French _pouvoir_ (can) + French _coder_ (to code)                                                                                          |
+| Sa sé tan mwen                                                                                         | That's my era                                                                                                  | French: ça + c'est + temps + moi                                                                                                                  |
 
 ### Future Intentions 🎯
 
 Expressions used to discuss plans, intentions, and future actions.
 
-| Kwéyòl         | English                    |
-| -------------- | -------------------------- |
-| E m'ap         | And I will / I am going to |
-| Mwen ka aprann | I'm learning               |
+| Kwéyòl         | English                    | Etymology                                  |
+| -------------- | -------------------------- | ------------------------------------------ |
+| E m'ap         | And I will / I am going to | French: et + m'en + après                  |
+| Mwen ka aprann | I'm learning               | French: moi + ka (progressive) + apprendre |
 
 ---
