@@ -162,7 +162,7 @@ Essential for forming questions and gathering information. These words help you 
 | Kwéyòl | English | Etymology            |
 | ------ | ------- | -------------------- |
 | Ki     | what    | French: qui / que    |
-| Kijan  | How     | French: qui + genre  |
+| Kijan  | how     | French: qui + genre  |
 | Kilè   | when    | French: quelle heure |
 | Kimoun | who     | French: qui + monde  |
 | Koté   | where   | French: quel côté    |
@@ -172,13 +172,24 @@ Essential for forming questions and gathering information. These words help you 
 
 Different ways to form questions in Kwéyòl, from simple inquiries to more complex interrogatives.
 
-| Kwéyòl    | English                 | Etymology                                   |
-| --------- | ----------------------- | ------------------------------------------- |
-| Ki moun   | Who                     | French: qui + monde (which person)          |
-| Ki sa     | What                    | French: qui/que + ça (what's that)          |
-| Sa sa     | This thing / That thing | French: ça + ça (that / this + that / this) |
-| Sa sa yé? | What is this?           | French: ça + c'est (that / this is)         |
-| Sa yé     | What is it?             | French: c'est (it is) + être (to be)        |
+| Kwéyòl                | English                 | Etymology                                                                 |
+| --------------------- | ----------------------- | ------------------------------------------------------------------------- |
+| Eske ou konprann?     | Do you understand?      | French: est-ce que (question marker) + ou (you) + comprendre (understand) |
+| Ki jan ou santi'w?    | How do you feel?        | French: qui (what) + genre (type) + ou (you) + sentir (to feel)           |
+| Ki moun               | Who                     | French: qui + monde (which person)                                        |
+| Ki sa                 | What                    | French: qui/que + ça (what's that)                                        |
+| Ki sa ki pwoblèm lan? | What are the problems?  | French: qui/que (what) + ce (this) + problème (problem) + là (there)      |
+| Koman ou ka fè?       | How are you doing?      | French: comment (how) + ou (you) + faire (to do)                          |
+| Koté liv-la yé?       | Where is the book?      | French: quel côté (which side) + livre (book) + là (there) + être (to be) |
+| Koté ou yé?           | Where are you?          | French: quel côté (which side) + ou (you) + être (to be)                  |
+| Kouman ou yé?         | How are you?            | French: comment (how) + ou (you) + être (to be)                           |
+| Ou soti kote?         | Where are you from?     | French: ou (you) + sortir (to come from) + côté (side)                    |
+| Sa ka fèt?            | What's happening?       | French: ça (that) + faire (to do/happen)                                  |
+| Sa ou bezwen?         | What do you need?       | French: ça (that) + ou (you) + besoin (need)                              |
+| Sa ou ka fè?          | What are you doing?     | French: ça (that) + ou (you) + faire (to do)                              |
+| Sa sa                 | This thing / That thing | French: ça + ça (that / this + that / this)                               |
+| Sa sa yé?             | What is this?           | French: ça + c'est (that / this is)                                       |
+| Sa yé                 | What is it?             | French: c'est (it is) + être (to be)                                      |
 
 ### Basic Conversations 💬
 
@@ -254,7 +265,9 @@ Advanced structures that allow you to express more sophisticated ideas and relat
 | Compound (Épi)         | Mwen ka manjé épi bwè                                 | I am eating and drinking                                |
 | Conditional (Si)       | Si ou vini bonmaten, nou ka alé ansanm                | If you come in the morning, we will go together         |
 | Future Plans           | Dimen nou ka alé laplaj épi zanmi nou                 | Tomorrow we're going to the beach with our friends      |
+| Negation               | Mwen pa konprann                                      | I don't understand                                      |
 | Progressive Action     | Ou ka eseye                                           | You are trying / attempting                             |
+| Progressive Movement   | Mwen ka alé                                           | I’m going (to leave)                                    |
 | Time-Based             | Atjwèlman mwen ka gadé télé, mé talè mwen ka alé dòmi | Right now I'm watching TV, but later I'm going to sleep |
 
 ### Weather & Environment 🌤️
