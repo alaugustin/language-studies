@@ -125,23 +125,25 @@ Essential vocabulary for discussing time, schedules, and daily activities. These
 
 Vocabulary for discussing place and position, crucial for giving and receiving directions.
 
-| Kwéyòl       | English  | Etymology            |
-| ------------ | -------- | -------------------- |
-| An           | In / At  | French: en / à       |
-| Lokalizasyon | Location | French: localisation |
+| Kwéyòl       | English               | Etymology                        |
+| ------------ | --------------------- | -------------------------------- |
+| An           | In / At               | French: en / à                   |
+| Lokalizasyon | Location              | French: localisation             |
+| Syèl-la      | The sky / The heavens | From French _ciel_ (sky, heaven) |
 
 ### Common Connectors 🔗
 
 These words help link ideas and create more complex sentences. They're vital for moving beyond basic phrases to more sophisticated expression.
 
-| Kwéyòl | English    | Etymology         |
-| ------ | ---------- | ----------------- |
-| Épi    | and / with | French: et puis   |
-| Kon    | like/as    | French: comme     |
-| Mé     | but        | French: mais      |
-| Paski  | because    | French: parce que |
-| Pou    | for        | French: pour      |
-| Si     | if         | French: si        |
+| Kwéyòl      | English    | Etymology                  |
+| ----------- | ---------- | -------------------------- |
+| Épi         | and / with | French: et puis            |
+| Kon         | like / as  | French: comme              |
+| Mé          | but        | French: mais               |
+| Paski / Pas | because    | French: parce que          |
+| Pou         | for        | French: pour               |
+| Poutji      | Why        | Unique to Creole languages |
+| Si          | if         | French: si                 |
 
 ---
 
@@ -157,14 +159,14 @@ Starting with basic what / where / when questions, you'll progress to more nuanc
 
 Essential for forming questions and gathering information. These words help you engage in interactive conversations and seek clarification.
 
-| Kwéyòl | English | Etymology                   |
-| ------ | ------- | --------------------------- |
-| Ki     | what    | French: qui / que           |
-| Kijan  | How     | French: qui + genre         |
-| Kilè   | when    | French: quelle heure        |
-| Kimoun | who     | French: qui + monde         |
-| Koté   | where   | French: quel côté           |
-| Pouki  | why     | French: pourquoi            |
+| Kwéyòl | English | Etymology            |
+| ------ | ------- | -------------------- |
+| Ki     | what    | French: qui / que    |
+| Kijan  | How     | French: qui + genre  |
+| Kilè   | when    | French: quelle heure |
+| Kimoun | who     | French: qui + monde  |
+| Koté   | where   | French: quel côté    |
+| Pouki  | why     | French: pourquoi     |
 
 ### Question Patterns 💭
 
@@ -252,6 +254,7 @@ Advanced structures that allow you to express more sophisticated ideas and relat
 | Compound (Épi)         | Mwen ka manjé épi bwè                                 | I am eating and drinking                                |
 | Conditional (Si)       | Si ou vini bonmaten, nou ka alé ansanm                | If you come in the morning, we will go together         |
 | Future Plans           | Dimen nou ka alé laplaj épi zanmi nou                 | Tomorrow we're going to the beach with our friends      |
+| Progressive Action     | Ou ka eseye                                           | You are trying / attempting                             |
 | Time-Based             | Atjwèlman mwen ka gadé télé, mé talè mwen ka alé dòmi | Right now I'm watching TV, but later I'm going to sleep |
 
 ### Weather & Environment 🌤️
@@ -274,6 +277,8 @@ This blend makes it easy to discuss both immediate and upcoming weather situatio
 
 | **Kweyol Word/Phrase**                                                                                 | **English Translation**                                                                                        | **Etymology/Notes**                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| An kè mwen                                                                                             | In my heart                                                                                                    | French: en (in) + cœur (heart) + moi (me/my)                                                                                                      |
+| Atik sou lwa                                                                                           | Article about law                                                                                              | French: article (article) + sur (about) + loi (law)                                                                                               |
 | Byenvini an lanné 1950                                                                                 | Welcome to the 1950s                                                                                           | French: bienvenue + an + année (year)                                                                                                             |
 | Entèpretasyon pa Snoop Dogg                                                                            | Rendition by Snoop Dogg                                                                                        | French: interprétation (interpretation) + par (by)                                                                                                |
 | Epi apré sa, mwen kay touné netwayé lanèj—round 1 apré mwen jwé Battlefield, épi round 2 pli ta aswè-a | Then after that, I will go back to shoveling snow—round 1 after playing Battlefield, and round 2 later tonight | French: et puis (and then) + après ça (after that) + tourner (to turn/return) + neige (snow) + après (after) + plus tard (later) + soir (evening) |
