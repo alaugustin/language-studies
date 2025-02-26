@@ -50,24 +50,45 @@ The basic counting system in Kwéyòl, showing strong French influence while mai
 | Nèf      | nine    | French: neuf   |
 | Dis      | ten     | French: dix    |
 
-### Basic Verbs ⚡
+### Basic Needs/Activities 🍽️
 
-These core action words are essential for constructing simple sentences. Most verbs show clear French influence but follow Kwéyòl pronunciation patterns.
+Essential verbs for daily routines and fundamental human activities. These verbs cover core actions needed for survival and daily life, from nourishment to rest and work.
 
-| Kwéyòl | English       | Etymology                    |
-| ------ | ------------- | ---------------------------- |
-| Alé    | go            | French: aller                |
-| Asiz   | sit           | French: asseoir              |
-| Bay    | give          | French: bailler (Old French) |
-| Bwè    | drink         | French: boire                |
-| Fè     | do / make     | French: faire                |
-| Gadé   | look / watch  | French: regarder             |
-| Manjé  | eat           | French: manger               |
-| Mété   | put           | French: mettre               |
-| Pwan   | take          | French: prendre              |
-| Tann   | hear / listen | French: entendre             |
-| Travay | work          | French: travail              |
-| Vini   | come          | French: venir                |
+| Kwéyòl | English | Etymology       |
+| ------ | ------- | --------------- |
+| Asiz   | sit     | French: asseoir |
+| Bwè    | drink   | French: boire   |
+| Manjé  | eat     | French: manger  |
+| Travay | work    | French: travail |
+
+### Movement Verbs 🚶🏾‍♂️
+
+Essential verbs for describing physical movement and travel. These foundational verbs help express basic directions, intentions, and physical transitions in space.
+
+| Kwéyòl | English | Etymology     |
+| ------ | ------- | ------------- |
+| Alé    | go      | French: aller |
+| Vini   | come    | French: venir |
+
+### Action/Manipulation Verbs 🎯
+
+These verbs describe physical actions where objects or things are handled, moved, or changed. They form the foundation for expressing how we interact with and manipulate our environment in Kwéyòl.
+
+| Kwéyòl | English   | Etymology                    |
+| ------ | --------- | ---------------------------- |
+| Bay    | give      | French: bailler (Old French) |
+| Fè     | do / make | French: faire                |
+| Mété   | put       | French: mettre               |
+| Pwan   | take      | French: prendre              |
+
+### Sensory/Perception Verbs 👀
+
+These verbs relate to how we experience and interact with the world through our senses. They're fundamental for describing observations, awareness, and sensory experiences in Kwéyòl.
+
+| Kwéyòl | English      | Etymology        |
+| ------ | ------------ | ---------------- |
+| Gadé   | look / watch | French: regarder |
+| Tann   | hear/listen  | French: entendre |
 
 ### Grammar Markers 🔄
 
