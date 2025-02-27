@@ -13,13 +13,9 @@ Let's begin exploring the rich language of Kwéyòl!
 - Tables include clear descriptions of each category's purpose and scope
 - Common phrases and expressions are included for practical conversation
 
-## Essential Building Blocks 🏗️
+## Fundamentals 🎯
 
-These fundamental elements form the core of Kwéyòl communication. By mastering these basic components, you'll be able to construct simple sentences and express essential needs.
-
-Each building block connects directly to everyday usage, making it easier to start speaking Kwéyòl right away.
-
-The French etymology shows the language's roots while highlighting how Kwéyòl has evolved into its own distinct form.
+Master these core elements to build a solid foundation in Kwéyòl. This section covers the essential building blocks - from personal pronouns to numbers and key grammatical markers - that form the backbone of the language. With these fundamentals, you'll be ready to construct basic sentences and understand everyday conversations.
 
 ### Essential Pronouns 👥
 
@@ -50,45 +46,22 @@ The basic counting system in Kwéyòl, showing strong French influence while mai
 | Nèf      | nine    | French: neuf   |
 | Dis      | ten     | French: dix    |
 
-### Basic Needs/Activities 🍽️
+---
 
-Essential verbs for daily routines and fundamental human activities. These verbs cover core actions needed for survival and daily life, from nourishment to rest and work.
+## Grammatical Markers 🔧
 
-| Kwéyòl | English | Etymology       |
-| ------ | ------- | --------------- |
-| Asiz   | sit     | French: asseoir |
-| Bwè    | drink   | French: boire   |
-| Manjé  | eat     | French: manger  |
-| Travay | work    | French: travail |
+These essential markers form the core grammar system of Kwéyòl, allowing speakers to modify verbs, express negation, ask questions, and indicate plurality. Understanding these markers is key to constructing proper sentences and expressing time, action, and quantity effectively.
 
-### Movement Verbs 🚶🏾‍♂️
+### Tense & Aspect Markers ⏳
 
-Essential verbs for describing physical movement and travel. These foundational verbs help express basic directions, intentions, and physical transitions in space.
+These essential markers modify verbs to indicate when actions occur and how they unfold over time. They help express past events, ongoing actions, habitual activities, and future intentions in Kwéyòl conversations.
 
-| Kwéyòl | English | Etymology     |
-| ------ | ------- | ------------- |
-| Alé    | go      | French: aller |
-| Vini   | come    | French: venir |
-
-### Action/Manipulation Verbs 🎯
-
-These verbs describe physical actions where objects or things are handled, moved, or changed. They form the foundation for expressing how we interact with and manipulate our environment in Kwéyòl.
-
-| Kwéyòl | English   | Etymology                    |
-| ------ | --------- | ---------------------------- |
-| Bay    | give      | French: bailler (Old French) |
-| Fè     | do / make | French: faire                |
-| Mété   | put       | French: mettre               |
-| Pwan   | take      | French: prendre              |
-
-### Sensory/Perception Verbs 👀
-
-These verbs relate to how we experience and interact with the world through our senses. They're fundamental for describing observations, awareness, and sensory experiences in Kwéyòl.
-
-| Kwéyòl | English      | Etymology        |
-| ------ | ------------ | ---------------- |
-| Gadé   | look / watch | French: regarder |
-| Tann   | hear/listen  | French: entendre |
+| Kwéyòl | English            | Etymology              |
+| ------ | ------------------ | ---------------------- |
+| Ka     | progressive marker | French: capable/qui va |
+| Té     | past tense marker  | French: était          |
+| Udé    | used to            | French: eu de          |
+| Vlé    | want to            | French: vouloir        |
 
 ### Negation Markers 🚫
 
@@ -108,6 +81,62 @@ These essential markers help form questions and indicate plurality in Kwéyòl. 
 | Ès     | is / does (question marker) | French: est-ce    |
 | Sé     | the (plural marker)         | French: ces/c'est |
 
+---
+
+## Essential Building Blocks 🏗️
+
+These building blocks form the active core of Kwéyòl communication. From basic needs to movement and manipulation, these verbs and actions let you express daily activities, physical motion, and interaction with the world around you.
+
+### Core Actions 🔄
+
+The heart of Kwéyòl expression lies in these fundamental action verbs. Grouped by function, these verbs enable you to communicate essential activities, movement, object manipulation, and sensory experiences in clear, practical ways.
+
+#### Basic Needs/Activities 🍽️
+
+Essential verbs for daily routines and fundamental human activities. These verbs cover core actions needed for survival and daily life, from nourishment to rest and work.
+
+| Kwéyòl | English | Etymology       |
+| ------ | ------- | --------------- |
+| Asiz   | sit     | French: asseoir |
+| Bwè    | drink   | French: boire   |
+| Manjé  | eat     | French: manger  |
+| Travay | work    | French: travail |
+
+#### Movement Verbs 🚶🏾‍♂️
+
+Essential verbs for describing physical movement and travel. These foundational verbs help express basic directions, intentions, and physical transitions in space.
+
+| Kwéyòl | English | Etymology     |
+| ------ | ------- | ------------- |
+| Alé    | go      | French: aller |
+| Vini   | come    | French: venir |
+
+#### Action/Manipulation Verbs 🎯
+
+These verbs describe physical actions where objects or things are handled, moved, or changed. They form the foundation for expressing how we interact with and manipulate our environment in Kwéyòl.
+
+| Kwéyòl | English   | Etymology                    |
+| ------ | --------- | ---------------------------- |
+| Bay    | give      | French: bailler (Old French) |
+| Fè     | do / make | French: faire                |
+| Mété   | put       | French: mettre               |
+| Pwan   | take      | French: prendre              |
+
+#### Sensory/Perception Verbs 👀
+
+These verbs relate to how we experience and interact with the world through our senses. They're fundamental for describing observations, awareness, and sensory experiences in Kwéyòl.
+
+| Kwéyòl | English      | Etymology        |
+| ------ | ------------ | ---------------- |
+| Gadé   | look / watch | French: regarder |
+| Tann   | hear/listen  | French: entendre |
+
+---
+
+## Communication Elements 🗣️
+
+These elements are the dynamic tools that bring Kwéyòl conversations to life. From expressing abilities and possibilities to exchanging greetings and farewells, these patterns help you navigate social interactions naturally.
+
 ### Ability & Possibility Markers 💪
 
 These essential markers express capability, permission, and potential in Kwéyòl. While both 'Pé' and 'Sa' translate to ability, they have subtle usage differences inherited from their French origins - 'pouvoir' indicating physical ability or permission, and 'savoir' suggesting learned capability or knowledge.
@@ -116,17 +145,6 @@ These essential markers express capability, permission, and potential in Kwéyò
 | ------ | ------------- | --------------- |
 | Pé     | can / able to | French: pouvoir |
 | Sa     | can / able to | French: savoir  |
-
-### Tense & Aspect Markers ⏳
-
-These essential markers modify verbs to indicate when actions occur and how they unfold over time. They help express past events, ongoing actions, habitual activities, and future intentions in Kwéyòl conversations.
-
-| Kwéyòl | English            | Etymology              |
-| ------ | ------------------ | ---------------------- |
-| Ka     | progressive marker | French: capable/qui va |
-| Té     | past tense marker  | French: était          |
-| Udé    | used to            | French: eu de          |
-| Vlé    | want to            | French: vouloir        |
 
 ### Time-Specific Greetings ⏰
 
@@ -159,29 +177,88 @@ These friendly phrases help initiate casual conversations and make plans in Kwé
 
 ---
 
-## Basic Descriptions 🎨
+## Descriptive Words 🎨
 
-Once you've mastered the essential building blocks, these descriptive elements will help you add colour and detail to your Kwéyòl expressions.
+Essential vocabulary for painting vivid pictures with words in Kwéyòl.
 
-This section covers the vocabulary needed to describe objects, situations, locations, and time - fundamental aspects of daily communication.
+### Appearance & Size 👀
 
-With these tools, you'll be able to create more vivid and precise statements, making your Kwéyòl more expressive and natural.
+Words that describe the visual qualities and dimensions of people, objects, and places.
 
-### Essential Descriptors ✨
+| Kwéyòl | English   | Etymology     |
+| ------ | --------- | ------------- |
+| Bèl    | beautiful | French: belle |
+| Gwo    | big       | French: gros  |
+| Piti   | small     | French: petit |
 
-These adjectives help describe people, objects, and situations. They're crucial for adding detail and nuance to your expressions.
+### Quality & Character ⭐
 
-| Kwéyòl  | English   | Etymology         |
-| ------- | --------- | ----------------- |
-| Bèl     | beautiful | French: belle     |
-| Bon     | good      | French: bon       |
-| Dousman | slow      | French: doucement |
-| Gwo     | big       | French: gros      |
-| Mové    | bad       | French: mauvais   |
-| Piti    | small     | French: petit     |
-| Vit     | fast      | French: vite      |
+Terms that express value judgments and personality traits.
 
-### Immediacy/Timing ⏰
+| Kwéyòl | English | Etymology       |
+| ------ | ------- | --------------- |
+| Bon    | good    | French: bon     |
+| Mové   | bad     | French: mauvais |
+
+### Speed & Motion 🏃🏽
+
+Vocabulary for describing pace and movement in various contexts.
+
+| Kwéyòl  | English | Etymology         |
+| ------- | ------- | ----------------- |
+| Dousman | slow    | French: doucement |
+| Vit     | fast    | French: vite      |
+
+---
+
+### Connecting Words 🔗
+
+These words help link ideas and create more complex sentences. They're vital for moving beyond basic phrases to more sophisticated expression.
+
+### Basic Joins ⚡
+
+Simple connectors that combine ideas and actions.
+
+| Kwéyòl | English    | Etymology       |
+| ------ | ---------- | --------------- |
+| Épi    | and / with | French: et puis |
+| Mé     | but        | French: mais    |
+
+### Reasoning & Logic 🤔
+
+Words that express cause, effect, and conditional relationships.
+
+| Kwéyòl      | English | Etymology                  |
+| ----------- | ------- | -------------------------- |
+| Paski / Pas | because | French: parce que          |
+| Poutji      | Why     | Unique to Creole languages |
+| Si          | if      | French: si                 |
+
+### Relationships 🤝
+
+Terms that show comparisons and connections between concepts.
+
+| Kwéyòl | English   | Etymology     |
+| ------ | --------- | ------------- |
+| Kon    | like / as | French: comme |
+| Pou    | for       | French: pour  |
+
+---
+
+## Time-Related Expressions ⌛
+
+Master these essential time markers to discuss when things happen in Kwéyòl. From specific times of day to calendar references, these expressions help you navigate temporal concepts in natural conversation.
+
+### Time of Day 🌅
+
+Terms for different periods throughout the day. These fundamental time expressions help structure daily conversations and activities in Kwéyòl.
+
+| Kwéyòl   | English | Etymology         |
+| -------- | ------- | ----------------- |
+| Bonmaten | morning | French: bon matin |
+| Swè      | evening | French: soir      |
+
+### Immediacy / Timing ⚡
 
 These expressions help communicate temporal urgency and timing in Kwéyòl, ranging from immediate actions to near-future events. They're essential for coordinating activities and expressing when things will happen.
 
@@ -190,15 +267,6 @@ These expressions help communicate temporal urgency and timing in Kwéyòl, rang
 | Atjwèlman | now        | French: actuellement   |
 | Talè      | later      | French: tout à l'heure |
 | Touswit   | right away | French: tout de suite  |
-
-### Time of Day ⏰
-
-Terms for different periods throughout the day. These fundamental time expressions help structure daily conversations and activities in Kwéyòl.
-
-| Kwéyòl   | English | Etymology         |
-| -------- | ------- | ----------------- |
-| Bonmaten | morning | French: bon matin |
-| Swè      | evening | French: soir      |
 
 ### Calendar References 📅
 
@@ -210,6 +278,12 @@ These fundamental time expressions help you reference days in relation to the pr
 | Jodi   | today     | French: aujourd'hui |
 | Yè     | yesterday | French: hier        |
 
+---
+
+## Environment & Space 🌍
+
+Understanding your surroundings and describing the world around you is essential. These terms help you navigate spaces and discuss environmental conditions with confidence.
+
 ### Location Words 📍
 
 Vocabulary for discussing place and position, crucial for giving and receiving directions.
@@ -218,20 +292,6 @@ Vocabulary for discussing place and position, crucial for giving and receiving d
 | -------- | -------- | -------------------- |
 | An       | in / at  | French: en / à       |
 | Lokasyon | location | French: localisation |
-
-### Common Connectors 🔗
-
-These words help link ideas and create more complex sentences. They're vital for moving beyond basic phrases to more sophisticated expression.
-
-| Kwéyòl      | English    | Etymology                  |
-| ----------- | ---------- | -------------------------- |
-| Épi         | and / with | French: et puis            |
-| Kon         | like / as  | French: comme              |
-| Mé          | but        | French: mais               |
-| Paski / Pas | because    | French: parce que          |
-| Pou         | for        | French: pour               |
-| Poutji      | Why        | Unique to Creole languages |
-| Si          | if         | French: si                 |
 
 ### Weather Terms ☀️
 
@@ -247,13 +307,7 @@ Essential vocabulary for discussing climate, temperature, and atmospheric condit
 
 ## Forming Questions ❓
 
-Questions are vital for engaging in meaningful conversations and learning more about the world around you in Kwéyòl.
-
-This section equips you with essential question words and patterns that help you seek information, clarify understanding, and connect with others.
-
-Starting with basic what / where / when questions, you'll progress to more nuanced ways of asking about people, reasons, and circumstances.
-
-### Question Words ❔
+### Basic Question Words ❔
 
 Essential for forming questions and gathering information. These words help you engage in interactive conversations and seek clarification.
 
@@ -265,6 +319,14 @@ Essential for forming questions and gathering information. These words help you 
 | Kimoun | who     | French: qui + monde  |
 | Koté   | where   | French: quel côté    |
 | Pouki  | why     | French: pourquoi     |
+
+### Yes/No Question Patterns 🤔
+
+These questions use the marker "Eske" (from French "est-ce que") to create simple questions that can be answered with "Wi" (Yes) or "Non" (No). This pattern forms the foundation of basic information-seeking in Kwéyòl conversations, making it essential for everyday communication.
+
+| Kwéyòl            | English            | Etymology                                                                 |
+| ----------------- | ------------------ | ------------------------------------------------------------------------- |
+| Eske ou konprann? | Do you understand? | French: est-ce que (question marker) + ou (you) + comprendre (understand) |
 
 ### Question Patterns 💭
 
@@ -286,7 +348,15 @@ Different ways to form questions in Kwéyòl, from simple inquiries to more comp
 | Sa sa                 | This thing / That thing | French: ça + ça (that / this + that / this)                               |
 | Sa yé                 | What is it?             | French: c'est (it is) + être (to be)                                      |
 
-### Basic Conversations 💬
+### Rhetorical Questions 🤔
+
+These questions are commonly used in casual conversation to express curiosity, surprise, or to initiate social interaction rather than seeking specific information and often serve as friendly conversation starters.
+
+| Kwéyòl    | English       | Etymology                           |
+| --------- | ------------- | ----------------------------------- |
+| Sa sa yé? | What is this? | French: ça + c'est (that / this is) |
+
+### Conversation Examples 💬
 
 Common dialogue patterns you'll encounter in everyday situations. Practice these to build confidence in real-world interactions.
 
@@ -302,22 +372,6 @@ Common dialogue patterns you'll encounter in everyday situations. Practice these
 | R: Mwen ka manjé     | I am eating                |
 | Q: Ki sa ou vlé bwè? | What do you want to drink? |
 | R: Mwen vlé bwè dlo  | I want to drink water      |
-
-### Yes/No Question Patterns 🤔
-
-These questions use the marker "Eske" (from French "est-ce que") to create simple questions that can be answered with "Wi" (Yes) or "Non" (No). This pattern forms the foundation of basic information-seeking in Kwéyòl conversations, making it essential for everyday communication.
-
-| Kwéyòl            | English            | Etymology                                                                 |
-| ----------------- | ------------------ | ------------------------------------------------------------------------- |
-| Eske ou konprann? | Do you understand? | French: est-ce que (question marker) + ou (you) + comprendre (understand) |
-
-### Rhetorical Questions 🤔
-
-These questions are commonly used in casual conversation to express curiosity, surprise, or to initiate social interaction rather than seeking specific information and often serve as friendly conversation starters.
-
-| Kwéyòl    | English       | Etymology                           |
-| --------- | ------------- | ----------------------------------- |
-| Sa sa yé? | What is this? | French: ça + c'est (that / this is) |
 
 ---
 
@@ -365,6 +419,8 @@ You'll learn to express complex thoughts, discuss current events, and engage in 
 
 The patterns and expressions here will help you sound more like a native speaker while navigating both formal and casual social situations.
 
+### Core Language Patterns
+
 ### Complex Sentence Patterns 🧩
 
 Advanced structures that allow you to express more sophisticated ideas and relationships between concepts.
@@ -379,6 +435,18 @@ Advanced structures that allow you to express more sophisticated ideas and relat
 | Progressive Action     | Ou ka eseye                                           | You are trying / attempting                             |
 | Time-Based             | Atjwèlman mwen ka gadé télé, mé talè mwen ka alé dòmi | Right now I'm watching TV, but later I'm going to sleep |
 
+### Future Intentions 🎯
+
+Expressions used to discuss plans, intentions, and future actions.
+
+| Kwéyòl                                                                                                 | English                                                                                                        | Etymology                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| E m'ap                                                                                                 | And I will / I am going to                                                                                     | French: et + m'en + après                                                                                                                         |
+| Epi apré sa, mwen kay touné netwayé lanèj—round 1 apré mwen jwé Battlefield, épi round 2 pli ta aswè-a | Then after that, I will go back to shoveling snow—round 1 after playing Battlefield, and round 2 later tonight | French: et puis (and then) + après ça (after that) + tourner (to turn/return) + neige (snow) + après (after) + plus tard (later) + soir (evening) |
+| Mwen ka aprann                                                                                         | I'm learning                                                                                                   | French: moi + ka (progressive) + apprendre                                                                                                        |
+
+### Modern Usage
+
 ### Technology Vocabulary 🖥️
 
 These terms showcase how the language bridges traditional Kwéyòl structures with modern technological terminology, making it relevant for today's digital conversations.
@@ -387,6 +455,27 @@ These terms showcase how the language bridges traditional Kwéyòl structures wi
 | ------------------------------------------------------ | ----------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Jòdi-a, mwen kay jwé Battlefield 2024 pou anviron 1 hè | Today, I will play Battlefield 2024 for around 1 hour | French: jour + de (today) + jouer (play) + pour (for) + environ (around) + heure (hour) |
 | Mwen ka alé kòdé                                       | I can code                                            | French: moi (me) + capable (can) + aller (go) + coder (to code)                         |
+
+### Cultural & Modern References 🎵
+
+These expressions showcase how Kwéyòl handles discussions about weather conditions and daily environmental tasks.
+
+The examples demonstrate practical vocabulary for describing winter activities, weather forecasts, and their effects on daily life. Notice how the language naturally incorporates modern measurements (cm) while maintaining traditional Kwéyòl sentence structures.
+
+This blend makes it easy to discuss both immediate and upcoming weather situations in authentic, everyday conversations.
+
+| **Kwéyòl Word/Phrase**        | **English Translation**      | **Etymology/Notes**                                                                                       |
+| ----------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------- |
+| An kè mwen                    | In my heart                  | French: en (in) + cœur (heart) + moi (me/my)                                                              |
+| Atik sou lwa                  | Article about law            | French: article (article) + sur (about) + loi (law)                                                       |
+| Byenvini an lanné 1950        | Welcome to the 1950s         | French: bienvenue + an + année (year)                                                                     |
+| Entèpretasyon pa Snoop Dogg   | Rendition by Snoop Dogg      | French: interprétation (interpretation) + par (by)                                                        |
+| Gwo mizik sòti tan jenès mwen | Big songs from my young days | French: gros (big) + musique (music) + sortir (come from) + temps (time) + jeunesse (youth) + moi (me/my) |
+| Sa sé tan mwen                | That's my era                | French: ça + c'est + temps + moi                                                                          |
+
+---
+
+## Everyday Situations
 
 ### Status Phrases 🗣️
 
@@ -406,32 +495,5 @@ Vocabulary and phrases specific to discussing weather conditions and environment
 | 50 cm lanèj ant jòdi-a épi Jedi            | 50 cm of snow between today and Thursday    | French: la neige + entre + aujourd'hui + et puis + jeudi         |
 | Apre mwen netwayé lanèj yè, mwen té fatige | After shoveling snow yesterday, I was tired | French: après + moi + nettoyer + la neige + hier + moi + fatigué |
 | Mwen kay alé netwayé lanèj pli ta          | I will go shovel snow later                 | French: moi + aller + nettoyer + la neige + plus tard            |
-
-### Cultural & Modern References 🎵
-
-These expressions showcase how Kwéyòl handles discussions about weather conditions and daily environmental tasks.
-
-The examples demonstrate practical vocabulary for describing winter activities, weather forecasts, and their effects on daily life. Notice how the language naturally incorporates modern measurements (cm) while maintaining traditional Kwéyòl sentence structures.
-
-This blend makes it easy to discuss both immediate and upcoming weather situations in authentic, everyday conversations.
-
-| **Kwéyòl Word/Phrase**        | **English Translation**      | **Etymology/Notes**                                                                                       |
-| ----------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------- |
-| An kè mwen                    | In my heart                  | French: en (in) + cœur (heart) + moi (me/my)                                                              |
-| Atik sou lwa                  | Article about law            | French: article (article) + sur (about) + loi (law)                                                       |
-| Byenvini an lanné 1950        | Welcome to the 1950s         | French: bienvenue + an + année (year)                                                                     |
-| Entèpretasyon pa Snoop Dogg   | Rendition by Snoop Dogg      | French: interprétation (interpretation) + par (by)                                                        |
-| Gwo mizik sòti tan jenès mwen | Big songs from my young days | French: gros (big) + musique (music) + sortir (come from) + temps (time) + jeunesse (youth) + moi (me/my) |
-| Sa sé tan mwen                | That's my era                | French: ça + c'est + temps + moi                                                                          |
-
-### Future Intentions 🎯
-
-Expressions used to discuss plans, intentions, and future actions.
-
-| Kwéyòl                                                                                                 | English                                                                                                        | Etymology                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| E m'ap                                                                                                 | And I will / I am going to                                                                                     | French: et + m'en + après                                                                                                                         |
-| Epi apré sa, mwen kay touné netwayé lanèj—round 1 apré mwen jwé Battlefield, épi round 2 pli ta aswè-a | Then after that, I will go back to shoveling snow—round 1 after playing Battlefield, and round 2 later tonight | French: et puis (and then) + après ça (after that) + tourner (to turn/return) + neige (snow) + après (after) + plus tard (later) + soir (evening) |
-| Mwen ka aprann                                                                                         | I'm learning                                                                                                   | French: moi + ka (progressive) + apprendre                                                                                                        |
 
 ---
