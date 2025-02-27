@@ -2,16 +2,16 @@
 
 Welcome to this practical guide for Saint Lucian Kwéyòl.
 
-This resource organizes essential vocabulary and phrases to help you communicate effectively in this vibrant Caribbean language that blends French-based Creole with African, Caribbean, and English influences.
+This resource systematically organizes essential vocabulary and phrases into clear semantic categories to help you communicate effectively in this vibrant Caribbean language. The content blends French-based Creole with African, Caribbean, and English influences, presenting key concepts like basic needs, movement, actions, and sensory expressions in an accessible format.
 
 Let's begin exploring the rich language of Kwéyòl!
 
 ## How to Use This Guide 📖
 
-- Each section contains carefully categorized vocabulary with English translations
-- Tables are organized by function (pronouns, verbs, descriptors, etc.)
+- Each section contains carefully categorized vocabulary with English translations and etymological origins
+- Content is organized into intuitive semantic groups (basic needs, movement, actions, etc.)
+- Tables include clear descriptions of each category's purpose and scope
 - Common phrases and expressions are included for practical conversation
-- Grammar markers and sentence structures help you form correct expressions
 
 ## Essential Building Blocks 🏗️
 
@@ -33,7 +33,7 @@ These pronouns form the foundation of personal expression in Kwéyòl. Notice ho
 | Ou     | you           | French: vous     |
 | Yo     | they / them   | West African: yo |
 
-### Numbers 1-5 🔢
+### Numbers 1-10 🔢
 
 The basic counting system in Kwéyòl, showing strong French influence while maintaining unique Creole pronunciation.
 
@@ -90,37 +90,72 @@ These verbs relate to how we experience and interact with the world through our 
 | Gadé   | look / watch | French: regarder |
 | Tann   | hear/listen  | French: entendre |
 
-### Grammar Markers 🔄
+### Negation Markers 🚫
 
-These special words modify verbs and sentences to indicate tense, plurality, and other grammatical functions.
+Essential words for expressing negation and denial in Kwéyòl. These markers are placed before verbs or adjectives to negate actions, states, or qualities - fundamental for expressing what is not happening or what hasn't happened yet.
 
-| Kwéyòl | English                     | Etymology              |
-| ------ | --------------------------- | ---------------------- |
-| Ès     | is / does (question marker) | French: est-ce         |
-| Ka     | progressive marker          | French: capable/qui va |
-| Pa     | not / don't / doesn't       | French: pas            |
-| Sé     | the (plural marker)         | French: ces/c'est      |
-| Pé     | can / able to               | French: pouvoir        |
-| Poko   | not yet                     | French: pas encore     |
-| Sa     | can / able to               | French: savoir         |
-| Té     | past tense marker           | French: était          |
-| Udé    | used to                     | French: eu de          |
-| Vlé    | want to                     | French: vouloir        |
+| Kwéyòl | English               | Etymology          |
+| ------ | --------------------- | ------------------ |
+| Pa     | not / don't / doesn't | French: pas        |
+| Poko   | not yet               | French: pas encore |
 
-### Common Greetings & Farewells 👋
+### Question & Plural Markers ❓
 
-Essential phrases for starting and ending conversations politely in Kwéyòl.
+These essential markers help form questions and indicate plurality in Kwéyòl. The question marker 'Ès' transforms statements into yes/no questions, while 'Sé' marks plural nouns and serves as a plural definite article.
 
-| Kwéyòl      | English                   | Etymology            |
-| ----------- | ------------------------- | -------------------- |
-| A pli ta    | see you later             | French: à plus tard  |
-| Bonjou      | good morning/day          | French: bonjour      |
-| bonswè      | good evening / good night | French: bonsoir      |
-| Dédé        | goodbye                   | French: adieu        |
-| Mwen ka alé | I'm leaving               | French: moi aller    |
-| Pwan ka     | take care                 | French: prendre cas  |
-| Sa ka fèt?  | how's it going?           | French: ça faire     |
-| Vini demen  | come tomorrow             | French: venir demain |
+| Kwéyòl | English                     | Etymology         |
+| ------ | --------------------------- | ----------------- |
+| Ès     | is / does (question marker) | French: est-ce    |
+| Sé     | the (plural marker)         | French: ces/c'est |
+
+### Ability & Possibility Markers 💪
+
+These essential markers express capability, permission, and potential in Kwéyòl. While both 'Pé' and 'Sa' translate to ability, they have subtle usage differences inherited from their French origins - 'pouvoir' indicating physical ability or permission, and 'savoir' suggesting learned capability or knowledge.
+
+| Kwéyòl | English       | Etymology       |
+| ------ | ------------- | --------------- |
+| Pé     | can / able to | French: pouvoir |
+| Sa     | can / able to | French: savoir  |
+
+### Tense & Aspect Markers ⏳
+
+These essential markers modify verbs to indicate when actions occur and how they unfold over time. They help express past events, ongoing actions, habitual activities, and future intentions in Kwéyòl conversations.
+
+| Kwéyòl | English            | Etymology              |
+| ------ | ------------------ | ---------------------- |
+| Ka     | progressive marker | French: capable/qui va |
+| Té     | past tense marker  | French: était          |
+| Udé    | used to            | French: eu de          |
+| Vlé    | want to            | French: vouloir        |
+
+### Time-Specific Greetings ⏰
+
+These traditional greetings change based on the time of day, reflecting the French-influenced courtesy system in Kwéyòl culture. They form the foundation of polite social interactions throughout the day and evening.
+
+| Kwéyòl | English                   | Etymology       |
+| ------ | ------------------------- | --------------- |
+| Bonjou | good morning/day          | French: bonjour |
+| bonswè | good evening / good night | French: bonsoir |
+
+### Farewell Expressions 👋
+
+These phrases offer different ways to end conversations gracefully in Kwéyòl, ranging from casual "see you later" to more formal goodbyes.
+
+| Kwéyòl      | English       | Etymology           |
+| ----------- | ------------- | ------------------- |
+| A pli ta    | see you later | French: à plus tard |
+| Dédé        | goodbye       | French: adieu       |
+| Mwen ka alé | I'm leaving   | French: moi aller   |
+| Pwan ka     | take care     | French: prendre cas |
+
+### Conversation Starters 💭
+
+These friendly phrases help initiate casual conversations and make plans in Kwéyòl. They're perfect for breaking the ice and engaging with others in everyday social situations.
+
+| Kwéyòl     | English         | Etymology            |
+| ---------- | --------------- | -------------------- |
+| Sa ka fèt? | how's it going? | French: ça faire     |
+| Vini demen | come tomorrow   | French: venir demain |
 
 ---
 
@@ -146,20 +181,34 @@ These adjectives help describe people, objects, and situations. They're crucial 
 | Piti    | small     | French: petit     |
 | Vit     | fast      | French: vite      |
 
-### Time Words ⏰
+### Immediacy/Timing ⏰
 
-Essential vocabulary for discussing time, schedules, and daily activities. These words help you navigate temporal expressions in conversation.
+These expressions help communicate temporal urgency and timing in Kwéyòl, ranging from immediate actions to near-future events. They're essential for coordinating activities and expressing when things will happen.
 
 | Kwéyòl    | English    | Etymology              |
 | --------- | ---------- | ---------------------- |
 | Atjwèlman | now        | French: actuellement   |
-| Bonmaten  | morning    | French: bon matin      |
-| Dimen     | tomorrow   | French: demain         |
-| Jodi      | today      | French: aujourd'hui    |
-| Swè       | evening    | French: soir           |
 | Talè      | later      | French: tout à l'heure |
 | Touswit   | right away | French: tout de suite  |
-| Yè        | yesterday  | French: hier           |
+
+### Time of Day ⏰
+
+Terms for different periods throughout the day. These fundamental time expressions help structure daily conversations and activities in Kwéyòl.
+
+| Kwéyòl   | English | Etymology         |
+| -------- | ------- | ----------------- |
+| Bonmaten | morning | French: bon matin |
+| Swè      | evening | French: soir      |
+
+### Calendar References 📅
+
+These fundamental time expressions help you reference days in relation to the present moment. They're essential for discussing events, plans, and past occurrences in Kwéyòl.
+
+| Kwéyòl | English   | Etymology           |
+| ------ | --------- | ------------------- |
+| Dimen  | tomorrow  | French: demain      |
+| Jodi   | today     | French: aujourd'hui |
+| Yè     | yesterday | French: hier        |
 
 ### Location Words 📍
 
