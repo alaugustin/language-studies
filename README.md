@@ -95,6 +95,10 @@ These essential markers help form questions and indicate plurality in Kwéyòl. 
 
 These building blocks form the active core of Kwéyòl communication. From basic needs to movement and manipulation, these verbs and actions let you express daily activities, physical motion, and interaction with the world around you.
 
+| Kwéyòl  | English     | Etymology                      |
+| ------- | ----------- | ------------------------------ |
+| Zanmi’w | Your friend | "Zanmi" (friend) + "'w" (your) |
+
 ### Basic Needs/Activities 🍽️
 
 Essential verbs for daily routines and fundamental human activities. These verbs cover core actions needed for survival and daily life, from nourishment to rest and work.
@@ -154,10 +158,11 @@ These traditional greetings change based on the time of day, reflecting the Fren
 
 These friendly phrases help initiate casual conversations and make plans in Kwéyòl. They're perfect for breaking the ice and engaging with others in everyday social situations.
 
-| Kwéyòl     | English         | Etymology            |
-| ---------- | --------------- | -------------------- |
-| Sa ka fèt? | how's it going? | French: ça faire     |
-| Vini demen | come tomorrow   | French: venir demain |
+| Kwéyòl          | English         | Etymology                   |
+| --------------- | --------------- | --------------------------- |
+| Mandé mwen anko | Ask me again    | French: demander moi encore |
+| Sa ka fèt?      | how's it going? | French: ça faire            |
+| Vini demen      | come tomorrow   | French: venir demain        |
 
 ### Ability & Possibility Markers 💪
 
@@ -476,6 +481,10 @@ The patterns and expressions here will help you sound more like a native speaker
 
 Essential advanced structures that form the foundation of sophisticated Kwéyòl expression.
 
+| Kwéyòl                 | English                | Etymology                                                |
+| ---------------------- | ---------------------- | -------------------------------------------------------- |
+| Zanmi'w soti an travay | Your friends from work | "Zanmi" (friend) + "soti" (from) + "an travay" (at work) |
+
 #### Complex Sentence Patterns 🧩
 
 Advanced structures that allow you to express more sophisticated ideas and relationships between concepts.
@@ -487,7 +496,9 @@ Advanced structures that allow you to express more sophisticated ideas and relat
 | Conditional (Si)       | Si ou vini bonmaten, nou ka alé ansanm                | If you come in the morning, we will go together         |
 | Future Plans           | Dimen nou ka alé laplaj épi zanmi nou                 | Tomorrow we're going to the beach with our friends      |
 | Negation               | Mwen pa konprann                                      | I don't understand                                      |
+| Predictive Expression  | Sa kay bon an chay                                    | That will be a lot of fun                               |
 | Progressive Action     | Ou ka eseye                                           | You are trying / attempting                             |
+| Repetition             | Mandé mwen anko                                       | Ask me again                                            |
 | Time-Based             | Atjwèlman mwen ka gadé télé, mé talè mwen ka alé dòmi | Right now I'm watching TV, but later I'm going to sleep |
 
 #### Future Intentions 🎯
