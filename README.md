@@ -95,9 +95,14 @@ These essential markers help form questions and indicate plurality in Kwéyòl. 
 
 These building blocks form the active core of Kwéyòl communication. From basic needs to movement and manipulation, these verbs and actions let you express daily activities, physical motion, and interaction with the world around you.
 
-| Kwéyòl  | English     | Etymology                      |
-| ------- | ----------- | ------------------------------ |
-| Zanmi’w | Your friend | "Zanmi" (friend) + "'w" (your) |
+| Kwéyòl                | English                 | Etymology                           |
+| --------------------- | ----------------------- | ----------------------------------- |
+| Ki sa ki pli enpòtan? | What is more important? | French: qui + ça + plus + important |
+| Mwen enmen'w          | I love you              | French: moi + aimer + "w" (you)     |
+| Mwen ka travay        | I am working            | French: moi + capable + travailler  |
+| Pli enmen             | Prefer, love more       | French: Pli + enmen                 |
+| Tout tan...pa         | As long as...not        | French: tout le temps...pas         |
+| Zanmi’w               | Your friend             | French: Zanmi + 'w                  |
 
 ### Basic Needs/Activities 🍽️
 
@@ -134,10 +139,10 @@ These verbs describe physical actions where objects or things are handled, moved
 
 These verbs relate to how we experience and interact with the world through our senses. They're fundamental for describing observations, awareness, and sensory experiences in Kwéyòl.
 
-| Kwéyòl | English      | Etymology        |
-| ------ | ------------ | ---------------- |
-| Gadé   | look / watch | French: regarder |
-| Tann   | hear/listen  | French: entendre |
+| Kwéyòl | English       | Etymology        |
+| ------ | ------------- | ---------------- |
+| Gadé   | look / watch  | French: regarder |
+| Tann   | hear / listen | French: entendre |
 
 ---
 
@@ -151,7 +156,7 @@ These traditional greetings change based on the time of day, reflecting the Fren
 
 | Kwéyòl | English                   | Etymology       |
 | ------ | ------------------------- | --------------- |
-| Bonjou | good morning/day          | French: bonjour |
+| Bonjou | good morning / day        | French: bonjour |
 | bonswè | good evening / good night | French: bonsoir |
 
 ### Conversation Starters 💭
@@ -189,6 +194,10 @@ These phrases offer different ways to end conversations gracefully in Kwéyòl, 
 ## Descriptive Words 🎨
 
 Essential vocabulary for painting vivid pictures with words in Kwéyòl.
+
+| Kwéyòl      | English                       | Etymology                      |
+| ----------- | ----------------------------- | ------------------------------ |
+| Yon potcake | A mixed-breed dog (Caribbean) | Term used for stray/mixed dogs |
 
 ### Physical Attributes 👤
 
@@ -477,13 +486,18 @@ You'll learn to express complex thoughts, discuss current events, and engage in 
 
 The patterns and expressions here will help you sound more like a native speaker while navigating both formal and casual social situations.
 
+| Kwéyòl                          | English                           | Etymology                                                                         |
+| ------------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
+| Front-end development se aplon  | Front-end development is my focus | English: front-end development + French: c'est (is) + aplomb (focus)              |
+| Mwen ka sèvi React épi Tailwind | I use React and Tailwind          | French: moi (I) + capable (can) + servir (use) + React + et puis (and) + Tailwind |
+
 ### Core Language Patterns
 
 Essential advanced structures that form the foundation of sophisticated Kwéyòl expression.
 
-| Kwéyòl                 | English                | Etymology                                                |
-| ---------------------- | ---------------------- | -------------------------------------------------------- |
-| Zanmi'w soti an travay | Your friends from work | "Zanmi" (friend) + "soti" (from) + "an travay" (at work) |
+| Kwéyòl                 | English                | Etymology                                  |
+| ---------------------- | ---------------------- | ------------------------------------------ |
+| Zanmi'w soti an travay | Your friends from work | French: ami + vous + sortir + en + travail |
 
 #### Complex Sentence Patterns 🧩
 
@@ -519,7 +533,7 @@ Explore contemporary Kwéyòl expressions that bridge traditional language with 
 
 These terms showcase how the language bridges traditional Kwéyòl structures with modern technological terminology, making it relevant for today's digital conversations.
 
-| **Kwéyòl Word/Phrase**                                 | **English Translation**                               | **Etymology/Notes**                                                                     |
+| **Kwéyòl Word/Phrase**                                 | **English Translation**                               | **Etymology**                                                                           |
 | ------------------------------------------------------ | ----------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Jòdi-a, mwen kay jwé Battlefield 2024 pou anviron 1 hè | Today, I will play Battlefield 2024 for around 1 hour | French: jour + de (today) + jouer (play) + pour (for) + environ (around) + heure (hour) |
 | Mwen ka alé kòdé                                       | I can code                                            | French: moi (me) + capable (can) + aller (go) + coder (to code)                         |
@@ -532,14 +546,15 @@ The examples demonstrate practical vocabulary for describing winter activities, 
 
 This blend makes it easy to discuss both immediate and upcoming weather situations in authentic, everyday conversations.
 
-| **Kwéyòl Word/Phrase**        | **English Translation**      | **Etymology/Notes**                                                                                       |
-| ----------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------- |
-| An kè mwen                    | In my heart                  | French: en (in) + cœur (heart) + moi (me/my)                                                              |
-| Atik sou lwa                  | Article about law            | French: article (article) + sur (about) + loi (law)                                                       |
-| Byenvini an lanné 1950        | Welcome to the 1950s         | French: bienvenue + an + année (year)                                                                     |
-| Entèpretasyon pa Snoop Dogg   | Rendition by Snoop Dogg      | French: interprétation (interpretation) + par (by)                                                        |
-| Gwo mizik sòti tan jenès mwen | Big songs from my young days | French: gros (big) + musique (music) + sortir (come from) + temps (time) + jeunesse (youth) + moi (me/my) |
-| Sa sé tan mwen                | That's my era                | French: ça + c'est + temps + moi                                                                          |
+| **Kwéyòl Word/Phrase**        | **English Translation**            | **Etymology**                                                                                             |
+| ----------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2 bous pa rale                | Two greedy people never get enough | French: deux (two) + bouches (mouths) + pas (not) + râler (complain)                                      |
+| An kè mwen                    | In my heart                        | French: en (in) + cœur (heart) + moi (me/my)                                                              |
+| Atik sou lwa                  | Article about law                  | French: article (article) + sur (about) + loi (law)                                                       |
+| Byenvini an lanné 1950        | Welcome to the 1950s               | French: bienvenue (welcome) + en (in) + année (year)                                                      |
+| Entèpretasyon pa Snoop Dogg   | Rendition by Snoop Dogg            | French: interprétation (interpretation) + par (by)                                                        |
+| Gwo mizik sòti tan jenès mwen | Big songs from my young days       | French: gros (big) + musique (music) + sortir (come from) + temps (time) + jeunesse (youth) + moi (me/my) |
+| Sa sé tan mwen                | That's my era                      | French: ça (that) + c'est (is) + temps (time) + moi (me/my)                                               |
 
 ### Everyday Situations 🏠
 
