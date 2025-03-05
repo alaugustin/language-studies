@@ -29,13 +29,13 @@ Master these core elements to build a solid foundation in Kwéyòl. This section
 
 These pronouns form the foundation of personal expression in Kwéyòl. Notice how many derive from French but have been simplified in structure.
 
-| Kwéyòl | English       | Etymology        |
-| ------ | ------------- | ---------------- |
-| Li / I | he / she / it | French: lui      |
-| Mwen   | I / me        | French: moi      |
-| Nou    | we / us       | French: nous     |
-| Ou     | you           | French: vous     |
-| Yo     | they / them   | West African: yo |
+| Kwéyòl | English             | Etymology    |
+| ------ | ------------------- | ------------ |
+| Li / I | he / she / it       | French: lui  |
+| Mwen   | I / me / my / mine  | French: moi  |
+| Nou    | we / us / our       | French: nous |
+| Ou     | you                 | French: vous |
+| Yo     | they / them / their | French: eux  |
 
 ### Numbers 1-10 🔢
 
@@ -69,7 +69,7 @@ These essential markers modify verbs to indicate when actions occur and how they
 | Ka     | progressive marker    | French: capable/qui va |
 | M'ap   | I'm (doing something) | French: moi + après    |
 | Té     | past tense marker     | French: était          |
-| Udé    | used to               | French: eu de          |
+| Té ka  | used to               | French: eu de          |
 | Vlé    | want to               | French: vouloir        |
 
 ### Negation Markers 🚫
@@ -79,18 +79,20 @@ Essential words for expressing negation and denial in Kwéyòl. These markers ar
 | Kwéyòl | English               | Etymology          |
 | ------ | --------------------- | ------------------ |
 | Pa     | not / don't / doesn't | French: pas        |
-| Poko   | not yet               | French: pas encore |
+| P'òkò  | not yet               | French: pas encore |
 
 ### Question & Plural Markers ❓
 
 These essential markers help form questions and indicate plurality in Kwéyòl. The question marker 'Ès' transforms statements into yes/no questions, while 'Sé' marks plural nouns and serves as a plural definite article.
 
-| Kwéyòl | English                     | Etymology         |
-| ------ | --------------------------- | ----------------- |
-| Ès     | is / does (question marker) | French: est-ce    |
-| Sé     | the (plural marker)         | French: ces/c'est |
+| Kwéyòl | English                         | Etymology         |
+| ------ | ------------------------------- | ----------------- |
+| Ès     | is / does (Y/N question marker) | French: est-ce    |
+| Sé     | the (plural marker)             | French: ces/c'est |
 
 ---
+
+<!-- -->
 
 ## Essential Building Blocks 🏗️
 
@@ -626,10 +628,10 @@ Essential phrases and vocabulary for navigating daily life.
 
 Common expressions used to describe one's current state or condition, ranging from casual responses to emphatic declarations. These phrases are perfect for responding to inquiries about wellbeing or making light-hearted statements about one's situation.
 
-| Kwéyòl         | English           | Etymology                                           |
-| -------------- | ----------------- | --------------------------------------------------- |
-| Mwen poko mò   | I'm not dead yet  | French: moi + Kwéyòl: poko (not yet) + French: mort |
-| Non, mwen byen | No, I'm fine      | French: non (no) + bien (well/fine)                 |
+| Kwéyòl         | English          | Etymology                                           |
+| -------------- | ---------------- | --------------------------------------------------- |
+| Mwen poko mò   | I'm not dead yet | French: moi + Kwéyòl: poko (not yet) + French: mort |
+| Non, mwen byen | No, I'm fine     | French: non (no) + bien (well/fine)                 |
 
 ### Weather & Environment 🌤️
 
