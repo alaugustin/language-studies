@@ -64,12 +64,13 @@ These essential markers form the core grammar system of Kwéyòl, allowing speak
 
 These essential markers modify verbs to indicate when actions occur and how they unfold over time. They help express past events, ongoing actions, habitual activities, and future intentions in Kwéyòl conversations.
 
-| Kwéyòl | English            | Etymology              |
-| ------ | ------------------ | ---------------------- |
-| Ka     | progressive marker | French: capable/qui va |
-| Té     | past tense marker  | French: était          |
-| Udé    | used to            | French: eu de          |
-| Vlé    | want to            | French: vouloir        |
+| Kwéyòl | English               | Etymology              |
+| ------ | --------------------- | ---------------------- |
+| Ka     | progressive marker    | French: capable/qui va |
+| M'ap   | I'm (doing something) | French: moi + après    |
+| Té     | past tense marker     | French: était          |
+| Udé    | used to               | French: eu de          |
+| Vlé    | want to               | French: vouloir        |
 
 ### Negation Markers 🚫
 
@@ -100,7 +101,7 @@ These building blocks form the active core of Kwéyòl communication. From basic
 | Ki sa ki pli enpòtan? | What is more important? | French: qui + ça + plus + important |
 | Mwen enmen'w          | I love you              | French: moi + aimer + "w" (you)     |
 | Mwen ka travay        | I am working            | French: moi + capable + travailler  |
-| Pli enmen             | Prefer, love more       | French: Pli + enmen                 |
+| Pli enme              | prefer, love more       | French: plus + aimer                |
 | Tout tan...pa         | As long as...not        | French: tout le temps...pas         |
 | Zanmi’w               | Your friend             | French: Zanmi + 'w                  |
 
@@ -119,21 +120,23 @@ Essential verbs for daily routines and fundamental human activities. These verbs
 
 Essential verbs for describing physical movement and travel. These foundational verbs help express basic directions, intentions, and physical transitions in space.
 
-| Kwéyòl | English | Etymology     |
-| ------ | ------- | ------------- |
-| Alé    | go      | French: aller |
-| Vini   | come    | French: venir |
+| Kwéyòl      | English        | Etymology              |
+| ----------- | -------------- | ---------------------- |
+| Alé         | go             | French: aller          |
+| Vini        | come           | French: venir          |
+| Soukwé pied | to shake a leg | French: secouer + pied |
 
 ### Action/Manipulation Verbs 🎯
 
 These verbs describe physical actions where objects or things are handled, moved, or changed. They form the foundation for expressing how we interact with and manipulate our environment in Kwéyòl.
 
-| Kwéyòl | English   | Etymology                    |
-| ------ | --------- | ---------------------------- |
-| Bay    | give      | French: bailler (Old French) |
-| Fè     | do / make | French: faire                |
-| Mété   | put       | French: mettre               |
-| Pwan   | take      | French: prendre              |
+| Kwéyòl  | English   | Etymology                    |
+| ------- | --------- | ---------------------------- |
+| Bay     | give      | French: bailler (Old French) |
+| Fè      | do / make | French: faire                |
+| Mété    | put       | French: mettre               |
+| Pwan    | take      | French: prendre              |
+| Ou sèvi | you use   | French: vous + servir        |
 
 ### Sensory/Perception Verbs 👀
 
@@ -216,6 +219,11 @@ Words that describe the visual qualities and dimensions of people, objects, and 
 ### Abstract Qualities 💫
 
 Terms that express intangible characteristics and conceptual properties.
+
+| Kwéyòl           | English               | Etymology                      |
+| ---------------- | --------------------- | ------------------------------ |
+| Kilti Karayib la | Caribbean culture     | French: culture + caraïbe + la |
+| Vèti             | virtue, moral quality | French: vertu                  |
 
 #### Quality & Character ⭐
 
@@ -618,10 +626,10 @@ Essential phrases and vocabulary for navigating daily life.
 
 Common expressions used to describe one's current state or condition, ranging from casual responses to emphatic declarations. These phrases are perfect for responding to inquiries about wellbeing or making light-hearted statements about one's situation.
 
-| Kwéyòl         | English          | Etymology                                           |
-| -------------- | ---------------- | --------------------------------------------------- |
-| Mwen poko mò   | I'm not dead yet | French: moi + Kwéyòl: poko (not yet) + French: mort |
-| Non, mwen byen | No, I'm fine     | French: non (no) + bien (well/fine)                 |
+| Kwéyòl         | English           | Etymology                                           |
+| -------------- | ----------------- | --------------------------------------------------- |
+| Mwen poko mò   | I'm not dead yet  | French: moi + Kwéyòl: poko (not yet) + French: mort |
+| Non, mwen byen | No, I'm fine      | French: non (no) + bien (well/fine)                 |
 
 ### Weather & Environment 🌤️
 
