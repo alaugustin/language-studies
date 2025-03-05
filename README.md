@@ -92,20 +92,18 @@ These essential markers help form questions and indicate plurality in Kwéyòl. 
 
 ---
 
-<!-- -->
-
 ## Essential Building Blocks 🏗️
 
 These building blocks form the active core of Kwéyòl communication. From basic needs to movement and manipulation, these verbs and actions let you express daily activities, physical motion, and interaction with the world around you.
 
-| Kwéyòl                | English                 | Etymology                           |
-| --------------------- | ----------------------- | ----------------------------------- |
-| Ki sa ki pli enpòtan? | What is more important? | French: qui + ça + plus + important |
-| Mwen enmen'w          | I love you              | French: moi + aimer + "w" (you)     |
-| Mwen ka travay        | I am working            | French: moi + capable + travailler  |
-| Pli enme              | prefer, love more       | French: plus + aimer                |
-| Tout tan...pa         | As long as...not        | French: tout le temps...pas         |
-| Zanmi’w               | Your friend             | French: Zanmi + 'w                  |
+| Kwéyòl             | English                 | Etymology                           |
+| ------------------ | ----------------------- | ----------------------------------- |
+| Ki sa pli enpòtan? | What is more important? | French: qui + ça + plus + important |
+| Mwen enmen'w       | I love you              | French: moi + aimer + "w" (you)     |
+| Mwen ka travay     | I am working            | French: moi + capable + travailler  |
+| Pli enmen          | To like, To love        | French: plus + aimer                |
+| Tout tan...pa      | As long as...not        | French: tout le temps...pas         |
+| Zanmi’w            | Your friend             | French: Zanmi + 'w                  |
 
 ### Basic Needs/Activities 🍽️
 
@@ -116,29 +114,29 @@ Essential verbs for daily routines and fundamental human activities. These verbs
 | Asiz   | sit     | French: asseoir |
 | Bwè    | drink   | French: boire   |
 | Manjé  | eat     | French: manger  |
-| Travay | work    | French: travail |
+| Twavay | work    | French: travail |
 
 ### Movement Verbs 🚶🏾‍♂️
 
 Essential verbs for describing physical movement and travel. These foundational verbs help express basic directions, intentions, and physical transitions in space.
 
-| Kwéyòl      | English        | Etymology              |
-| ----------- | -------------- | ---------------------- |
-| Alé         | go             | French: aller          |
-| Vini        | come           | French: venir          |
-| Soukwé pied | to shake a leg | French: secouer + pied |
+| Kwéyòl | English  | Etymology       |
+| ------ | -------- | --------------- |
+| Alé    | to go    | French: aller   |
+| Vini   | to come  | French: venir   |
+| Soukwé | to shake | French: secouer |
 
 ### Action/Manipulation Verbs 🎯
 
 These verbs describe physical actions where objects or things are handled, moved, or changed. They form the foundation for expressing how we interact with and manipulate our environment in Kwéyòl.
 
-| Kwéyòl  | English   | Etymology                    |
-| ------- | --------- | ---------------------------- |
-| Bay     | give      | French: bailler (Old French) |
-| Fè      | do / make | French: faire                |
-| Mété    | put       | French: mettre               |
-| Pwan    | take      | French: prendre              |
-| Ou sèvi | you use   | French: vous + servir        |
+| Kwéyòl  | English                                  | Etymology                    |
+| ------- | ---------------------------------------- | ---------------------------- |
+| Bay     | to give                                  | French: bailler (Old French) |
+| Fè      | to do / to make / to cause               | French: faire                |
+| Mété    | to put / to let off / to begin to        | French: mettre               |
+| Ou sèvi | you use                                  | French: vous + servir        |
+| Pwan    | to take / to carry / to go / to start to | French: prendre              |
 
 ### Sensory/Perception Verbs 👀
 
@@ -147,7 +145,11 @@ These verbs relate to how we experience and interact with the world through our 
 | Kwéyòl | English       | Etymology        |
 | ------ | ------------- | ---------------- |
 | Gadé   | look / watch  | French: regarder |
+| Lòdè   | smell / scent | French: odorier  |
 | Tann   | hear / listen | French: entendre |
+| Touché | touch         | French: toucher  |
+
+<!-- -->
 
 ---
 
@@ -604,6 +606,7 @@ This blend makes it easy to discuss both immediate and upcoming weather situatio
 | Sa pa té ni doubout.          | That didn’t make sense.      | French: ça (that) + pas (not) + tenir (hold) + debout (standing)                                          |
 | Sa sé tan mwen                | That's my era                | French: ça (that) + c'est (is) + temps (time) + moi (me/my)                                               |
 | Sé konsa lafwa ka woulé.      | That’s just how life goes.   | French: c'est (it is) + comme ça (like that) + la foi (faith) + rouler (roll)                             |
+| Soukwé pied                   | to shake a leg               | French: secouer + pied                                                                                    |
 
 ### Idiomatic Expressions & Proverbs 🗣️
 
