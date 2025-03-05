@@ -370,14 +370,16 @@ Master the art of asking questions in Kwéyòl, from simple inquiries to complex
 
 The fundamental building blocks for forming questions, enabling you to seek essential information in any situation.
 
-| Kwéyòl | English | Etymology            |
-| ------ | ------- | -------------------- |
-| Ki     | what    | French: qui / que    |
-| Kijan  | how     | French: qui + genre  |
-| Kilè   | when    | French: quelle heure |
-| Kimoun | who     | French: qui + monde  |
-| Koté   | where   | French: quel côté    |
-| Pouki  | why     | French: pourquoi     |
+| Kwéyòl  | English | Etymology                          |
+| ------- | ------- | ---------------------------------- |
+| Ki      | what    | French: qui / que                  |
+| Ki moun | Who     | French: qui + monde (which person) |
+| Ki sa   | What    | French: qui/que + ça (what's that) |
+| Kijan   | how     | French: qui + genre                |
+| Kilè    | when    | French: quelle heure               |
+| Kimoun  | who     | French: qui + monde                |
+| Koté    | where   | French: quel côté                  |
+| Pouki   | why     | French: pourquoi                   |
 
 ### Yes/No Question Patterns ✅
 
@@ -391,23 +393,56 @@ Questions using "Eske" (from French "est-ce que") create simple yes/no questions
 
 Advanced patterns for forming more sophisticated questions, allowing you to express complex thoughts and gather detailed information.
 
-| Kwéyòl                | English                 | Etymology                                                                 |
-| --------------------- | ----------------------- | ------------------------------------------------------------------------- |
-| Ki jan ou santi'w?    | How do you feel?        | French: qui (what) + genre (type) + ou (you) + sentir (to feel)           |
-| Ki moun               | Who                     | French: qui + monde (which person)                                        |
-| Ki sa                 | What                    | French: qui/que + ça (what's that)                                        |
-| Ki sa ki pwoblèm lan? | What are the problems?  | French: qui/que (what) + ce (this) + problème (problem) + là (there)      |
-| Koman ou ka fè?       | How are you doing?      | French: comment (how) + ou (you) + faire (to do)                          |
-| Koté liv-la yé?       | Where is the book?      | French: quel côté (which side) + livre (book) + là (there) + être (to be) |
-| Koté ou yé?           | Where are you?          | French: quel côté (which side) + ou (you) + être (to be)                  |
-| Kouman ou yé?         | How are you?            | French: comment (how) + ou (you) + être (to be)                           |
-| Ou soti kote?         | Where are you from?     | French: ou (you) + sortir (to come from) + côté (side)                    |
-| Sa ou bezwen?         | What do you need?       | French: ça (that) + ou (you) + besoin (need)                              |
-| Sa ou ka fè?          | What are you doing?     | French: ça (that) + ou (you) + faire (to do)                              |
-| Sa sa                 | This thing / That thing | French: ça + ça (that / this + that / this)                               |
-| Sa yé                 | What is it?             | French: c'est (it is) + être (to be)                                      |
+| Kwéyòl | English                 | Etymology                                   |
+| ------ | ----------------------- | ------------------------------------------- |
+| Sa sa  | This thing / That thing | French: ça + ça (that / this + that / this) |
+| Sa yé  | What is it?             | French: c'est (it is) + être (to be)        |
 
-### Rhetorical Questions 🤨
+#### Feeling and Condition Questions 🤔
+
+These questions help you inquire about someone's feelings and condition, essential for showing care and concern in conversations.
+
+| Kwéyòl             | English            | Etymology                                                       |
+| ------------------ | ------------------ | --------------------------------------------------------------- |
+| Ki jan ou santi'w? | How do you feel?   | French: qui (what) + genre (type) + ou (you) + sentir (to feel) |
+| Koman ou ka fè?    | How are you doing? | French: comment (how) + ou (you) + faire (to do)                |
+| Kouman ou yé?      | How are you?       | French: comment (how) + ou (you) + être (to be)                 |
+
+#### Location Questions 📍
+
+These questions are essential for asking about the location of people or objects, helping you navigate and understand your surroundings.
+
+| Kwéyòl          | English             | Etymology                                                                 |
+| --------------- | ------------------- | ------------------------------------------------------------------------- |
+| Koté liv-la yé? | Where is the book?  | French: quel côté (which side) + livre (book) + là (there) + être (to be) |
+| Koté ou yé?     | Where are you?      | French: quel côté (which side) + ou (you) + être (to be)                  |
+| Ou soti kote?   | Where are you from? | French: ou (you) + sortir (to come from) + côté (side)                    |
+
+#### Needs and Actions Questions 🛠️
+
+These questions help you inquire about someone's needs and actions, crucial for understanding and assisting in various situations.
+
+| Kwéyòl        | English           | Etymology                                    |
+| ------------- | ----------------- | -------------------------------------------- |
+| Sa ou bezwen? | What do you need? | French: ça (that) + ou (you) + besoin (need) |
+
+#### Activity Questions 🛠️
+
+These questions help you inquire about someone's current actions, essential for understanding and engaging in conversations about ongoing activities.
+
+| Kwéyòl       | English             | Etymology                                    |
+| ------------ | ------------------- | -------------------------------------------- |
+| Sa ou ka fè? | What are you doing? | French: ça (that) + ou (you) + faire (to do) |
+
+#### Problem Inquiry Questions ❓
+
+These questions are essential for identifying and discussing issues or problems, helping you understand and address concerns effectively.
+
+| Kwéyòl                | English                | Etymology                                                            |
+| --------------------- | ---------------------- | -------------------------------------------------------------------- |
+| Ki sa ki pwoblèm lan? | What are the problems? | French: qui/que (what) + ce (this) + problème (problem) + là (there) |
+
+#### Rhetorical Questions 🤨
 
 Culturally-specific questions used to express emotion, maintain conversation flow, or show politeness in social situations.
 
@@ -546,21 +581,40 @@ The examples demonstrate practical vocabulary for describing winter activities, 
 
 This blend makes it easy to discuss both immediate and upcoming weather situations in authentic, everyday conversations.
 
-| **Kwéyòl Word/Phrase**        | **English Translation**            | **Etymology**                                                                                             |
-| ----------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 2 bous pa rale                | Two greedy people never get enough | French: deux (two) + bouches (mouths) + pas (not) + râler (complain)                                      |
-| An kè mwen                    | In my heart                        | French: en (in) + cœur (heart) + moi (me/my)                                                              |
-| Atik sou lwa                  | Article about law                  | French: article (article) + sur (about) + loi (law)                                                       |
-| Byenvini an lanné 1950        | Welcome to the 1950s               | French: bienvenue (welcome) + en (in) + année (year)                                                      |
-| Entèpretasyon pa Snoop Dogg   | Rendition by Snoop Dogg            | French: interprétation (interpretation) + par (by)                                                        |
-| Gwo mizik sòti tan jenès mwen | Big songs from my young days       | French: gros (big) + musique (music) + sortir (come from) + temps (time) + jeunesse (youth) + moi (me/my) |
-| Sa sé tan mwen                | That's my era                      | French: ça (that) + c'est (is) + temps (time) + moi (me/my)                                               |
+| **Kwéyòl Word/Phrase**        | **English Translation**      | **Etymology**                                                                                             |
+| ----------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------- |
+| An chay bagay ka pasé!        | A lot is happening!          | French: un (a) + tas (heap) + chose (thing) + passer (happen)                                             |
+| An kè mwen                    | In my heart                  | French: en (in) + cœur (heart) + moi (me/my)                                                              |
+| Atik sou lwa                  | Article about law            | French: article (article) + sur (about) + loi (law)                                                       |
+| Byenvini an lanné 1950        | Welcome to the 1950s         | French: bienvenue (welcome) + en (in) + année (year)                                                      |
+| Entèpretasyon pa Snoop Dogg   | Rendition by Snoop Dogg      | French: interprétation (interpretation) + par (by)                                                        |
+| Gwo mizik sòti tan jenès mwen | Big songs from my young days | French: gros (big) + musique (music) + sortir (come from) + temps (time) + jeunesse (youth) + moi (me/my) |
+| Mwen wè sa an zyé mwen!       | I saw it with my own eyes!   | French: moi (I) + voir (see) + ça (that) + en (in) + œil (eye) + moi (my)                                 |
+| Ou ni bon tjè.                | You have a good heart.       | French: vous (you) + avoir (have) + bon (good) + cœur (heart)                                             |
+| Sa pa té ni doubout.          | That didn’t make sense.      | French: ça (that) + pas (not) + tenir (hold) + debout (standing)                                          |
+| Sa sé tan mwen                | That's my era                | French: ça (that) + c'est (is) + temps (time) + moi (me/my)                                               |
+| Sé konsa lafwa ka woulé.      | That’s just how life goes.   | French: c'est (it is) + comme ça (like that) + la foi (faith) + rouler (roll)                             |
 
-### Everyday Situations 🏠
+### Idiomatic Expressions & Proverbs 🗣️
+
+This section covers common idiomatic expressions and proverbs in Kwéyòl. These phrases often carry meanings that go beyond their literal translations, offering insights into cultural wisdom and everyday life.
+
+| **Kwéyòl Phrase**                               | **English Translation**                                                | **Etymology**                                                                                                                                       |
+| ----------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2 bous pa rale                                  | Two greedy people never get enough                                     | French: deux (two) + bouches (mouths) + pas (not) + râler (complain)                                                                                |
+| Mouton ka mélé, mé i sav ki koté i ka mélé.     | Someone pretending to be confused but actually knows what's happening. | French: mouton (sheep) + mélanger (mix) + mais (but) + il (he) + savoir (know) + quel (which) + côté (side) + il (he) + mélanger (mix)              |
+| Pa mété kabwit gadyen chou.                     | Don’t put someone untrustworthy in charge.                             | French: ne pas (do not) + mettre (put) + cabri (goat) + gardien (guardian) + chou (cabbage)                                                         |
+| Sé an bonda chòdyè épi an chapo kannari.        | Someone acting higher than they are.                                   | French: sé (it is) + un (a) + bonde (plug) + chaudron (cauldron) + et (and) + un (a) + chapeau (hat) + canari (earthenware pot)                     |
+| Sé pa jounen an chat ka fè ich.                 | Good things take time.                                                 | French: ce n'est pas (it is not) + journée (day) + un (a) + chat (cat) + faire (make) + ich (kittens)                                               |
+| Si ou vlé manjé fig, ou ni pou soukwé pied fig. | If you want something, you must work for it.                           | French: si (if) + vous (you) + voulez (want) + manger (eat) + figue (fig) + vous (you) + devez (must) + secouer (shake) + pied (foot) + figue (fig) |
+
+---
+
+## Everyday Situations 🏠
 
 Essential phrases and vocabulary for navigating daily life.
 
-#### Status Phrases 🗣️
+### Status Phrases 🗣️
 
 Common expressions used to describe one's current state or condition, ranging from casual responses to emphatic declarations. These phrases are perfect for responding to inquiries about wellbeing or making light-hearted statements about one's situation.
 
@@ -569,7 +623,7 @@ Common expressions used to describe one's current state or condition, ranging fr
 | Mwen poko mò   | I'm not dead yet | French: moi + Kwéyòl: poko (not yet) + French: mort |
 | Non, mwen byen | No, I'm fine     | French: non (no) + bien (well/fine)                 |
 
-#### Weather & Environment 🌤️
+### Weather & Environment 🌤️
 
 Vocabulary and phrases specific to discussing weather conditions and environmental situations.
 
