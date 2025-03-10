@@ -149,8 +149,6 @@ These verbs relate to how we experience and interact with the world through our 
 | Tann   | hear / listen | French: entendre |
 | Touché | touch         | French: toucher  |
 
-<!-- -->
-
 ---
 
 ## Communication Elements 🗣️
@@ -163,8 +161,10 @@ These traditional greetings change based on the time of day, reflecting the Fren
 
 | Kwéyòl | English                   | Etymology       |
 | ------ | ------------------------- | --------------- |
-| Bonjou | good morning / day        | French: bonjour |
-| bonswè | good evening / good night | French: bonsoir |
+| Bonjou | good morning / good day   | French: bonjour |
+| Bonswè | good evening / good night | French: bonsoir |
+
+<!-- -->
 
 ### Conversation Starters 💭
 
@@ -202,9 +202,11 @@ These phrases offer different ways to end conversations gracefully in Kwéyòl, 
 
 Essential vocabulary for painting vivid pictures with words in Kwéyòl.
 
-| Kwéyòl      | English                       | Etymology                      |
-| ----------- | ----------------------------- | ------------------------------ |
-| Yon potcake | A mixed-breed dog (Caribbean) | Term used for stray/mixed dogs |
+| Kwéyòl         | English                       | Etymology                      |
+| -------------- | ----------------------------- | ------------------------------ |
+| Gwan tifi mwen | my older daughter             | French: grand + fille + moi    |
+| Ti tifi mwen   | my youngest daughter          | French: petit + fille + moi    |
+| Yon potcake    | a mixed-breed dog (Caribbean) | Term used for stray/mixed dogs |
 
 ### Physical Attributes 👤
 
@@ -366,11 +368,12 @@ Vocabulary for discussing place and position, crucial for giving and receiving d
 
 Essential vocabulary for discussing climate, temperature, and atmospheric conditions in Kwéyòl. These terms are vital for both casual conversations and practical situations, from checking weather forecasts to planning outdoor activities.
 
-| Kwéyòl  | English               | Etymology     |
-| ------- | --------------------- | ------------- |
-| Cho     | hot                   | French: chaud |
-| Fwèt    | cold                  | French: froid |
-| Syèl-la | The sky / The heavens | French: ciel  |
+| Kwéyòl   | English               | Etymology               |
+| -------- | --------------------- | ----------------------- |
+| Cho      | hot                   | French: chaud           |
+| Fwèt     | cold                  | French: froid           |
+| Mové tan | bad weather           | French: mauvais + temps |
+| Syèl-la  | the sky / the heavens | French: ciel            |
 
 ---
 
@@ -542,9 +545,13 @@ The patterns and expressions here will help you sound more like a native speaker
 
 Essential advanced structures that form the foundation of sophisticated Kwéyòl expression.
 
-| Kwéyòl                 | English                | Etymology                                  |
-| ---------------------- | ---------------------- | ------------------------------------------ |
-| Zanmi'w soti an travay | Your friends from work | French: ami + vous + sortir + en + travail |
+| Kwéyòl                         | English                         | Etymology                                           |
+| ------------------------------ | ------------------------------- | --------------------------------------------------- |
+| Bòn fèt madanm mwen            | happy birthday my wife          | French: bonne + fête + madame + moi                 |
+| Ki sa pli enpòtan?             | what is more important?         | French: qui + ça + plus + important                 |
+| Pa dapwé sa mwen li            | not according to what I've read | French: pas + d'après + ça + moi + lire             |
+| Vwèman wi, mwen sé yon egzanp. | so true, I'm an example         | French: vraiment + oui + moi + c'est + un + exemple |
+| Zanmi'w soti an travay         | your friends from work          | French: ami + vous + sortir + en + travail          |
 
 #### Complex Sentence Patterns 🧩
 
