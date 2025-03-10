@@ -388,8 +388,8 @@ The fundamental building blocks for forming questions, enabling you to seek esse
 | Kwéyòl  | English | Etymology                          |
 | ------- | ------- | ---------------------------------- |
 | Ki      | what    | French: qui / que                  |
-| Ki moun | Who     | French: qui + monde (which person) |
-| Ki sa   | What    | French: qui/que + ça (what's that) |
+| Ki moun | who     | French: qui + monde (which person) |
+| Ki sa   | what    | French: qui/que + ça (what's that) |
 | Kijan   | how     | French: qui + genre                |
 | Kilè    | when    | French: quelle heure               |
 | Kimoun  | who     | French: qui + monde                |
@@ -402,7 +402,7 @@ Questions using "Eske" (from French "est-ce que") create simple yes/no questions
 
 | Kwéyòl            | English            | Etymology                                                                 |
 | ----------------- | ------------------ | ------------------------------------------------------------------------- |
-| Eske ou konprann? | Do you understand? | French: est-ce que (question marker) + ou (you) + comprendre (understand) |
+| Eske ou konprann? | do you understand? | French: est-ce que (question marker) + ou (you) + comprendre (understand) |
 
 ### Question Patterns 💭
 
@@ -410,8 +410,8 @@ Advanced patterns for forming more sophisticated questions, allowing you to expr
 
 | Kwéyòl | English                 | Etymology                                   |
 | ------ | ----------------------- | ------------------------------------------- |
-| Sa sa  | This thing / That thing | French: ça + ça (that / this + that / this) |
-| Sa yé  | What is it?             | French: c'est (it is) + être (to be)        |
+| Sa sa  | this thing / that thing | French: ça + ça (that / this + that / this) |
+| Sa yé  | what is it?             | French: c'est (it is) + être (to be)        |
 
 #### Feeling and Condition Questions 🤔
 
@@ -419,9 +419,9 @@ These questions help you inquire about someone's feelings and condition, essenti
 
 | Kwéyòl             | English            | Etymology                                                       |
 | ------------------ | ------------------ | --------------------------------------------------------------- |
-| Ki jan ou santi'w? | How do you feel?   | French: qui (what) + genre (type) + ou (you) + sentir (to feel) |
-| Koman ou ka fè?    | How are you doing? | French: comment (how) + ou (you) + faire (to do)                |
-| Kouman ou yé?      | How are you?       | French: comment (how) + ou (you) + être (to be)                 |
+| Ki jan ou santi'w? | how do you feel?   | French: qui (what) + genre (type) + ou (you) + sentir (to feel) |
+| Koman ou ka fè?    | how are you doing? | French: comment (how) + ou (you) + faire (to do)                |
+| Kouman ou yé?      | how are you?       | French: comment (how) + ou (you) + être (to be)                 |
 
 #### Location Questions 📍
 
@@ -429,9 +429,9 @@ These questions are essential for asking about the location of people or objects
 
 | Kwéyòl          | English             | Etymology                                                                 |
 | --------------- | ------------------- | ------------------------------------------------------------------------- |
-| Koté liv-la yé? | Where is the book?  | French: quel côté (which side) + livre (book) + là (there) + être (to be) |
-| Koté ou yé?     | Where are you?      | French: quel côté (which side) + ou (you) + être (to be)                  |
-| Ou soti kote?   | Where are you from? | French: ou (you) + sortir (to come from) + côté (side)                    |
+| Koté liv-la yé? | where is the book?  | French: quel côté (which side) + livre (book) + là (there) + être (to be) |
+| Koté ou yé?     | where are you?      | French: quel côté (which side) + ou (you) + être (to be)                  |
+| Ou soti kote?   | where are you from? | French: ou (you) + sortir (to come from) + côté (side)                    |
 
 #### Needs and Actions Questions 🛠️
 
@@ -439,7 +439,7 @@ These questions help you inquire about someone's needs and actions, crucial for 
 
 | Kwéyòl        | English           | Etymology                                    |
 | ------------- | ----------------- | -------------------------------------------- |
-| Sa ou bezwen? | What do you need? | French: ça (that) + ou (you) + besoin (need) |
+| Sa ou bezwen? | what do you need? | French: ça (that) + ou (you) + besoin (need) |
 
 #### Activity Questions 🛠️
 
@@ -447,7 +447,7 @@ These questions help you inquire about someone's current actions, essential for 
 
 | Kwéyòl       | English             | Etymology                                    |
 | ------------ | ------------------- | -------------------------------------------- |
-| Sa ou ka fè? | What are you doing? | French: ça (that) + ou (you) + faire (to do) |
+| Sa ou ka fè? | what are you doing? | French: ça (that) + ou (you) + faire (to do) |
 
 #### Problem Inquiry Questions ❓
 
@@ -455,7 +455,7 @@ These questions are essential for identifying and discussing issues or problems,
 
 | Kwéyòl                | English                | Etymology                                                            |
 | --------------------- | ---------------------- | -------------------------------------------------------------------- |
-| Ki sa ki pwoblèm lan? | What are the problems? | French: qui/que (what) + ce (this) + problème (problem) + là (there) |
+| Ki sa ki pwoblèm lan? | what are the problems? | French: qui/que (what) + ce (this) + problème (problem) + là (there) |
 
 #### Rhetorical Questions 🤨
 
@@ -463,7 +463,7 @@ Culturally-specific questions used to express emotion, maintain conversation flo
 
 | Kwéyòl    | English       | Etymology                           |
 | --------- | ------------- | ----------------------------------- |
-| Sa sa yé? | What is this? | French: ça + c'est (that / this is) |
+| Sa sa yé? | what is this? | French: ça + c'est (that / this is) |
 
 ### Conversation Examples 🗣️
 
@@ -518,13 +518,13 @@ Frequently used phrases that will help you sound more natural in everyday conver
 
 | Kwéyòl                 | English                    | Etymology                                           |
 | ---------------------- | -------------------------- | --------------------------------------------------- |
-| Bon lide               | Good idea                  | French: bonne idée                                  |
-| Gwo mèsi               | Big thank you              | French: gros (big) + merci (thank you)              |
-| Mèsi pou koreksyon an  | Thanks for the correction  | French: merci + correction + article 'la'           |
-| Mèsi pou tradiksyon-an | Thanks for the translation | French: merci + traduction + article 'la'           |
+| Bon lide               | good idea                  | French: bonne idée                                  |
+| Gwo mèsi               | big thank you              | French: gros (big) + merci (thank you)              |
+| Mèsi pou koreksyon an  | thanks for the correction  | French: merci + correction + article 'la'           |
+| Mèsi pou tradiksyon-an | thanks for the translation | French: merci + traduction + article 'la'           |
 | Mwen la                | I'm here / I'm present     | French: moi + article 'la'                          |
 | Mwen poko mò           | I'm not dead yet           | French: moi + Kwéyòl: poko (not yet) + French: mort |
-| Pou èd ou              | For your help              | French: pour (for) + aide (help)                    |
+| Pou èd ou              | for your help              | French: pour (for) + aide (help)                    |
 
 ---
 
@@ -602,17 +602,17 @@ This blend makes it easy to discuss both immediate and upcoming weather situatio
 
 | **Kwéyòl Word/Phrase**        | **English Translation**      | **Etymology**                                                                                             |
 | ----------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------- |
-| An chay bagay ka pasé!        | A lot is happening!          | French: un (a) + tas (heap) + chose (thing) + passer (happen)                                             |
-| An kè mwen                    | In my heart                  | French: en (in) + cœur (heart) + moi (me/my)                                                              |
-| Atik sou lwa                  | Article about law            | French: article (article) + sur (about) + loi (law)                                                       |
-| Byenvini an lanné 1950        | Welcome to the 1950s         | French: bienvenue (welcome) + en (in) + année (year)                                                      |
-| Entèpretasyon pa Snoop Dogg   | Rendition by Snoop Dogg      | French: interprétation (interpretation) + par (by)                                                        |
-| Gwo mizik sòti tan jenès mwen | Big songs from my young days | French: gros (big) + musique (music) + sortir (come from) + temps (time) + jeunesse (youth) + moi (me/my) |
+| An chay bagay ka pasé!        | a lot is happening!          | French: un (a) + tas (heap) + chose (thing) + passer (happen)                                             |
+| An kè mwen                    | in my heart                  | French: en (in) + cœur (heart) + moi (me/my)                                                              |
+| Atik sou lwa                  | article about law            | French: article (article) + sur (about) + loi (law)                                                       |
+| Byenvini an lanné 1950        | welcome to the 1950s         | French: bienvenue (welcome) + en (in) + année (year)                                                      |
+| Entèpretasyon pa Snoop Dogg   | rendition by Snoop Dogg      | French: interprétation (interpretation) + par (by)                                                        |
+| Gwo mizik sòti tan jenès mwen | big songs from my young days | French: gros (big) + musique (music) + sortir (come from) + temps (time) + jeunesse (youth) + moi (me/my) |
 | Mwen wè sa an zyé mwen!       | I saw it with my own eyes!   | French: moi (I) + voir (see) + ça (that) + en (in) + œil (eye) + moi (my)                                 |
-| Ou ni bon tjè.                | You have a good heart.       | French: vous (you) + avoir (have) + bon (good) + cœur (heart)                                             |
-| Sa pa té ni doubout.          | That didn’t make sense.      | French: ça (that) + pas (not) + tenir (hold) + debout (standing)                                          |
-| Sa sé tan mwen                | That's my era                | French: ça (that) + c'est (is) + temps (time) + moi (me/my)                                               |
-| Sé konsa lafwa ka woulé.      | That’s just how life goes.   | French: c'est (it is) + comme ça (like that) + la foi (faith) + rouler (roll)                             |
+| Ou ni bon tjè.                | you have a good heart.       | French: vous (you) + avoir (have) + bon (good) + cœur (heart)                                             |
+| Sa pa té ni doubout.          | that didn’t make sense.      | French: ça (that) + pas (not) + tenir (hold) + debout (standing)                                          |
+| Sa sé tan mwen                | that's my era                | French: ça (that) + c'est (is) + temps (time) + moi (me/my)                                               |
+| Sé konsa lafwa ka woulé.      | that’s just how life goes.   | French: c'est (it is) + comme ça (like that) + la foi (faith) + rouler (roll)                             |
 | Soukwé pied                   | to shake a leg               | French: secouer + pied                                                                                    |
 
 ### Idiomatic Expressions & Proverbs 🗣️
@@ -621,12 +621,12 @@ This section covers common idiomatic expressions and proverbs in Kwéyòl. These
 
 | **Kwéyòl Phrase**                               | **English Translation**                                                | **Etymology**                                                                                                                                       |
 | ----------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2 bous pa rale                                  | Two greedy people never get enough                                     | French: deux (two) + bouches (mouths) + pas (not) + râler (complain)                                                                                |
-| Mouton ka mélé, mé i sav ki koté i ka mélé.     | Someone pretending to be confused but actually knows what's happening. | French: mouton (sheep) + mélanger (mix) + mais (but) + il (he) + savoir (know) + quel (which) + côté (side) + il (he) + mélanger (mix)              |
-| Pa mété kabwit gadyen chou.                     | Don’t put someone untrustworthy in charge.                             | French: ne pas (do not) + mettre (put) + cabri (goat) + gardien (guardian) + chou (cabbage)                                                         |
-| Sé an bonda chòdyè épi an chapo kannari.        | Someone acting higher than they are.                                   | French: sé (it is) + un (a) + bonde (plug) + chaudron (cauldron) + et (and) + un (a) + chapeau (hat) + canari (earthenware pot)                     |
-| Sé pa jounen an chat ka fè ich.                 | Good things take time.                                                 | French: ce n'est pas (it is not) + journée (day) + un (a) + chat (cat) + faire (make) + ich (kittens)                                               |
-| Si ou vlé manjé fig, ou ni pou soukwé pied fig. | If you want something, you must work for it.                           | French: si (if) + vous (you) + voulez (want) + manger (eat) + figue (fig) + vous (you) + devez (must) + secouer (shake) + pied (foot) + figue (fig) |
+| 2 bous pa rale                                  | two greedy people never get enough                                     | French: deux (two) + bouches (mouths) + pas (not) + râler (complain)                                                                                |
+| Mouton ka mélé, mé i sav ki koté i ka mélé.     | someone pretending to be confused but actually knows what's happening. | French: mouton (sheep) + mélanger (mix) + mais (but) + il (he) + savoir (know) + quel (which) + côté (side) + il (he) + mélanger (mix)              |
+| Pa mété kabwit gadyen chou.                     | don’t put someone untrustworthy in charge.                             | French: ne pas (do not) + mettre (put) + cabri (goat) + gardien (guardian) + chou (cabbage)                                                         |
+| Sé an bonda chòdyè épi an chapo kannari.        | someone acting higher than they are.                                   | French: sé (it is) + un (a) + bonde (plug) + chaudron (cauldron) + et (and) + un (a) + chapeau (hat) + canari (earthenware pot)                     |
+| Sé pa jounen an chat ka fè ich.                 | good things take time.                                                 | French: ce n'est pas (it is not) + journée (day) + un (a) + chat (cat) + faire (make) + ich (kittens)                                               |
+| Si ou vlé manjé fig, ou ni pou soukwé pied fig. | if you want something, you must work for it.                           | French: si (if) + vous (you) + voulez (want) + manger (eat) + figue (fig) + vous (you) + devez (must) + secouer (shake) + pied (foot) + figue (fig) |
 
 ---
 
